@@ -4,7 +4,7 @@
   "description": "New product development, interpersonal communications and product design coaching",
   "main": "index.js",
   "scripts": {
-    "build": "env NODE_ENV=production npx eleventy --pathprefix 'unlikelyso'",
+    "build": "npx eleventy",
     "serve": "npx eleventy --serve",
     "debug": "DEBUG=* npx eleventy",
     "test": "jest"
