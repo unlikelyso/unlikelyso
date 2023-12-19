@@ -297,6 +297,9 @@ li {
 }
 
 /* Margin */
+.mt-2 {
+  margin-top: 0.15rem;
+}
 .mb-8 {
   margin-bottom: 0.5rem;
 }
