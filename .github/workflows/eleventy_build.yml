@@ -33,8 +33,10 @@ jobs:
     steps:
         - id: deployment
           uses: actions/deploy-pages@v2
+        - name: Deploy
+          with: 
+            deploy_key: $
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    with:
-      deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
