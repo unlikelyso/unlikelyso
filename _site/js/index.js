@@ -13,7 +13,7 @@ var reviewSwiper2 = new Swiper(".reviewSwiper2", {
     clickable: true,
   },
   autoplay: {
-    delay: 5000,
+    delay: 10000,
   },
   slidesPerView: 1,
   spaceBetween: 16,
