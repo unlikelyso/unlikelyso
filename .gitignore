@@ -2,5 +2,6 @@
 node_modules
 
 # build artefacts
+_site
 public
 .DS_Store
