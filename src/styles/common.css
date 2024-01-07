@@ -87,6 +87,10 @@ li {
   margin-inline: auto;
 }
 
+.ts-hero__content {
+  padding-inline: 0.65rem;
+}
+
 @media (max-width: 991px) {
   .ts-container-lg-down-none {
     padding: 0;
