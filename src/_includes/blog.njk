@@ -17,7 +17,7 @@
     <meta property="og:url" content="https://unlikely.so/blog">
     <meta property="og:type" content="blog">
     <meta property="og:title" content="{{ title }}">
-    <meta property="og:image" content="./assets/images/blog/hero-bg.jpg">
+    <meta property="og:image" content="url('./assets/images/blog/hero-bg.jpg')">
     <meta property="og:description" content="Unlikely musings on new product development, interpersonal communications and product design.">
 
 
@@ -38,7 +38,7 @@
       sizes="16x16"
       href="../assets/favicon/favicon-16x16.png"
     />
-    <link rel="manifest" href="./assets/favicon/site.webmanifest" />
+    <link rel="manifest" href="../assets/favicon/site.webmanifest" />
     <link rel="stylesheet" href="../styles/common.css" />
     <link rel="stylesheet" href="../styles/blog.css" />
     <!-- MailerLite Universal -->
@@ -124,15 +124,12 @@
               </li>
 
               <li>
-                <a class="ts-navbar__link ts-text-blue-2" href="/blog/">
-                  Blog
-                </a>
+                <a class="ts-navbar__link ts-text-blue-2" href="/blog"> Blog </a>
               </li>
               <li class="ts-btn-container d-none">
                 <a
                   class="ts-btn ts-btn--sm ts-btn-primary ts-fs-6 text-decoration-none rounded-4 text-uppercase fw-500"
-                  href="mailto:founder@unlikely.so"
-                >
+                  href="mailto:founder@unlikely.so">
                   Contact
                 </a>
               </li>
@@ -149,7 +146,7 @@
       <div class="ts-container">
         <div class="ts-hero__content">
           <h1 class="ts-fs-1-ii ts-text-white lh-130 text-center text-lg-start fw-200">
-            Unlikely Blog: Lessons from new product development and beyond
+            {{ title }}
           </h1>
         </div>
       </div>
@@ -176,8 +173,7 @@
       </div>
     </footer>
 
-    <script src="./js/common.js"></script>
-    <script src="./js/blog.js"></script>
+    <script src="../js/common.js"></script>
   </body>
 </html>
 
