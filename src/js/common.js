@@ -47,7 +47,7 @@ const remove_class_on_scroll = () => {
 
   // Toggle  To white logo if navbar is Light Navbar is not open
   if (tsNavbarLogo && !isNavbarActive) {
-    tsNavbarLogo.src = "../assets/images/Logo-white.png";
+    tsNavbarLogo.src = "../assets/images/logo-white.png";
   }
   // tsContactBtn.style.display = "none";
   tsContactBtn.classList.add("d-none");
