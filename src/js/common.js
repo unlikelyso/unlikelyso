@@ -37,7 +37,7 @@ const add_class_on_scroll = () => {
   tsNavbarContainer.classList.add("ts-navbar-fade-in");
 
   if (tsNavbarLogo) {
-    tsNavbarLogo.src = "../assets/images/Logo.png";
+    tsNavbarLogo.src = "../assets/images/logo.png";
   }
   // tsContactBtn.style.display = "block";
   tsContactBtn.classList.remove("d-none");
