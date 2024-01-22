@@ -338,6 +338,10 @@ li {
   margin-inline: auto;
 }
 /* Padding */
+.p-0 {
+  padding: 0;
+}
+
 .p-16 {
   padding: 1rem;
 }
@@ -813,9 +817,12 @@ li {
 
 .ts-blog-card {
   padding-block: 1.5rem;
-  text-decoration: none;
   display: inline-block;
   font-weight: 300;
+
+  a {
+    text-decoration: none;
+  }
 }
 
 .ts-blog-card__title {
@@ -827,6 +834,10 @@ li {
   -webkit-box-orient: vertical;
   font-family: "Inter", sans-serif;
   font-weight: 800;
+
+  &:hover {
+    color: #0fab74; 
+  }
 }
 .ts-blog-card__desc {
   line-height: 1.3125rem;
@@ -841,6 +852,12 @@ li {
 /* Blog Details */
 /* ================================================= */
 /* ================================================= */
+
+.ts-blog-details__title {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: clamp(1.875rem, 0vw, 104px);
+}
 
 .ts-blog-details__content {
   display: grid;

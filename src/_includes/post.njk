@@ -1,9 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+   <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F6SNPYZPH7"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-F6SNPYZPH7');
+    </script>
+
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{{ title }}</title>
+
+    <meta name="description" content="Unlikely musings on new product development, interpersonal communications and product design.">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:image" content="{{ image }}">
+    <meta property="og:url" content="https://unlikely.so{{ page.url }}">
+    <meta property="og:description" content="{{ description }}">
+
     <link
       rel="apple-touch-icon"
       sizes="180x180"
@@ -107,9 +125,7 @@
                 <a class="ts-navbar__link" href="/"> Home </a>
               </li>
               <li>
-                <a class="ts-navbar__link ts-text-blue-2" href="{{ this }}">
-                  Blog
-                </a>
+                <a class="ts-navbar__link ts-text-blue-2" href="/blog">Blog</a>
               </li>
               <li class="ts-btn-container d-none">
                 <a
@@ -140,7 +156,7 @@
     <section>
       <div class="ts-container">
 
-        <div class="ts-blog-details__content mb-56">
+        <div class="ts-blog-details__title mb-24">
           <div>
             <h1 class="ts-fs-2 mb-16 ts-font-inter fw-900">
               {{ title }}
@@ -157,7 +173,7 @@
               <div>
                 <p class="ts-fs-5 fw-400">Tina Nguyen</p>
                 <p class="ts-fs-7 ts-text-gray-9 fw-400">
-                  {{ length }} read · {{ date | postDate }}
+                  {{ date | postDate }} · {{ length }}
                 </p>
               </div>
             </div>
@@ -169,6 +185,7 @@
                 {{ content | safe }}
             </p>
           </div>
+          <!--
           <div>
             <div class="mb-40">
               {% include "postlist.njk" %}
@@ -181,6 +198,7 @@
               <img width="14" src="../assets/icons/arrow-right.svg" alt="..."
             /></a>
           </div>
+          -->
         </div>
       <div class="ml-embedded mb-40" data-form="6UGoTA"></div>
       </div>
