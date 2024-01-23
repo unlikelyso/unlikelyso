@@ -1,3 +1,21 @@
 .ts-burger svg path {
   fill: #fff;
 }
+
+@media only screen and (max-width: 450px) {
+  .ml-mobileButton-horizontal {
+    display: inline-block !important;
+    margin-bottom: 20px;
+    width: 100%;
+    }
+  .ml-button-horizontal {
+    display: none;
+  }
+  .ml-input-horizontal {
+    width: 100% !important;
+  }
+  .horizontal-fields {
+    padding-right: 0 !important;
+  }
+}
+
