@@ -600,7 +600,10 @@ li {
     padding-inline: 1.5rem;
     display: none;
     flex-direction: column;
-    padding-top: 1.5rem;
+    padding-top: 2.5rem;
+  }
+  .ts-links {
+    gap: 3rem;
   }
   .ts-navbar__navbar .ts-btn-container,
   .ts-navbar__navbar .ts-btn {
