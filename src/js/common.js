@@ -1,8 +1,9 @@
 const menuHamburger = document.querySelector(".ts-burger");
 const tsNavbarContainer = document.querySelector(".ts-navbar-container");
-const tsContactBtn = document.querySelector(
+/*const tsContactBtn = document.querySelector(
   ".ts-navbar-container .ts-btn-container"
 );
+*/
 const tsNavbarLogo = document.querySelector(
   ".ts-navbar--light .ts-navbar__logo img"
 );
@@ -40,7 +41,7 @@ const add_class_on_scroll = () => {
     tsNavbarLogo.src = "../assets/images/logo.png";
   }
   // tsContactBtn.style.display = "block";
-  tsContactBtn.classList.remove("d-none");
+  //tsContactBtn.classList.remove("d-none");
 };
 const remove_class_on_scroll = () => {
   tsNavbarContainer.classList.remove("ts-navbar-fade-in");
@@ -50,7 +51,7 @@ const remove_class_on_scroll = () => {
     tsNavbarLogo.src = "../assets/images/logo-white.png";
   }
   // tsContactBtn.style.display = "none";
-  tsContactBtn.classList.add("d-none");
+  //tsContactBtn.classList.add("d-none");
 };
 
 window.addEventListener("scroll", function () {

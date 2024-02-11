@@ -87,6 +87,10 @@ li {
   margin-inline: auto;
 }
 
+.ts-work {
+  margin-top: 10rem;
+}
+
 .ts-hero__content {
   padding-inline: 0.65rem;
 }
@@ -304,6 +308,9 @@ li {
 .mt-2 {
   margin-top: 0.15rem;
 }
+.mt-16 {
+  margin-top: 1rem;
+}
 .mt-40 {
   margin-top: 2.5rem;
 }
@@ -444,6 +451,10 @@ li {
 
 .ts-light {
   background: linear-gradient(rgba(255,255,255,.7), rgba(255,255,255,0));
+}
+
+.ts-white {
+  background: var(--white);
 }
 
 .ts-navbar {
@@ -607,7 +618,7 @@ li {
   }
   .ts-navbar__navbar .ts-btn-container,
   .ts-navbar__navbar .ts-btn {
-    width: calc(100% - 3rem) !important;
+    width: calc(100% - 2rem) !important;
   }
 
   .ts-nav-footer {
@@ -701,10 +712,6 @@ li {
   align-items: center;
 }
 
-.ts-btn-callout {
-  /*/width: fit-content;*/
-}
-
 .review-section {
   padding-top: 8rem;
 }
@@ -790,6 +797,50 @@ li {
     gap: 0.5rem;
   }
 }
+
+/* ================================================= */
+/* ================================================= */
+/* NPD / IC / PD */
+/* ================================================= */
+/* ================================================= */
+.ts-work__content {
+  text-align: left;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 5rem;
+  padding-bottom: 5rem;
+}
+
+.ts-work__content ul {
+  padding-left: 1.25rem;
+}
+
+.ts-sidebar-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: clamp(1.875rem, 0vw, 104px);
+  place-content: start;
+}
+
+.ts-sidebar {
+  gap: 1rem;
+  padding: 1.5rem;
+  background: var(--gray-11);
+  align-items: center;
+}
+
+.ts-btn-sidebar {
+  width: -webkit-fill-available;
+}
+
+@media (max-width: 575px) {
+  .ts-work__content {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 0;
+  }
+}
+
+
 /* ================================================= */
 /* ================================================= */
 /* Blog */
@@ -949,20 +1000,16 @@ li {
 .swiper-pagination-bullet-active {
   transform: scale(1.2);
 }
-
 .ts-let-together__content {
   display: grid;
   gap: 2.25rem;
-  padding: 0;
-}
-.ts-let-together__content ul {
-  padding-left: 1.25rem;
+  margin-bottom: 2em;
 }
 
 @media (min-width: 992px) {
   .ts-let-together__content {
-    grid-template-columns: 1fr 1fr;
-    gap: 3.75rem;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    column-gap: 3.25rem;
   }
 }
 
