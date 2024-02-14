@@ -771,7 +771,6 @@ li {
     padding-block: 2.5rem;
   }
   .ts-callout-container {
-    padding: 1.5rem;
     padding-bottom: 0;
   }
 }
@@ -833,7 +832,7 @@ li {
 .ts-sidebar-container {
   display: grid;
   grid-template-columns: 1fr;
-  gap: clamp(1.875rem, 0vw, 104px);
+  gap: clamp(1.0rem, 0vw, 104px);
   place-content: start;
 }
 
@@ -842,6 +841,7 @@ li {
   padding: 1.5rem;
   background: var(--gray-11);
   align-items: center;
+  border-radius: 4px;
 }
 
 .ts-btn-sidebar {
@@ -1017,8 +1017,13 @@ li {
 }
 .ts-let-together__content {
   display: grid;
-  gap: 2.25rem;
+  gap: 1.25rem;
   margin-bottom: 2em;
+}
+.work__content {
+  padding: 24px;
+  background: var(--gray-11);
+  border-radius: 4px;
 }
 .row {
   display: flex;
@@ -1045,7 +1050,7 @@ li {
 @media (min-width: 992px) {
   .ts-let-together__content {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    column-gap: 3.25rem;
+    column-gap: 1.25rem;
   }
   .ts-row {
     grid-template-columns: repeat(2, minmax(0, 1fr));
