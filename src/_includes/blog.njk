@@ -155,10 +155,12 @@
     <section class="ts-py-80-2">
       <div class="ts-container">
         <div class="ts-blog-group mb-80">
-        {% include "postlist.njk" %}
+            {% for post in collections.posts | reverse %}
+              {% include "postlist.njk" %}
+            {% endfor %}
         </div>
-      </div>
         <div class="ml-embedded" data-form="6UGoTA"></div>
+      </div>
     </section>
 
     <footer class="ts-footer text-center mb-64">

@@ -142,18 +142,15 @@
     </nav>
 
     <section
-      class="ts-hero ts-hero--lg mb-80"
-      style="background-image: url('../assets/images/blog/hero-bg.jpg')">
+      class="ts-hero ts-hero--sm"
+      style="background-image: url({{ image }})">
       <div class="ts-container">
         <div class="ts-hero__content">
-          <div class="ts-fs-1-ii ts-text-white lh-130 text-center text-lg-start fw-200">
-            Unlikely Blog: Lessons from new product development and beyond
-          </div>
         </div>
       </div>
     </section>
 
-    <section>
+    <section class="mt-64">
       <div class="ts-container">
 
         <div class="ts-blog-details__title mb-24">
@@ -162,7 +159,7 @@
               {{ title }}
             </h1>
 
-            <div class="ts-profile">
+            <div class="ts-profile mt-24">
               <div>
                 <img
                   class="ts-profile__img"
@@ -185,20 +182,19 @@
                 {{ content | safe }}
             </p>
           </div>
-          <!--
           <div>
             <div class="mb-40">
-              {% include "postlist.njk" %}
+              {% for post in collections.posts  | reverse %}
+                {% if (post.url != page.url ) %} 
+                  {% include "postlist.njk" %}
+                {% endif %}
+              {% endfor %}
             </div>
 
-            <a
-              class="ts-fs-6 ts-text-blue-2 text-decoration-none ts-btn-seemore fw-700"
-              href="./blogs.html"
-              >See all
-              <img width="14" src="../assets/icons/arrow-right.svg" alt="..."
-            /></a>
+            <a class="ts-fs-6 ts-text-blue-2 text-decoration-none ts-btn-seemore fw-700" href="/blog">See all
+              <img width="14" src="../assets/icons/arrow-right.svg" alt="..."/>
+            </a>
           </div>
-          -->
         </div>
       <div class="ml-embedded mb-40" data-form="6UGoTA"></div>
       </div>
