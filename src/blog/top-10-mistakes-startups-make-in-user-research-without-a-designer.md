@@ -2,7 +2,7 @@
 title: Top 10 mistakes startups make in user research (without a designer)
 date: 2024-02-19
 length: "5 min 9 sec"
-image: "../assets/images/blog/research-bg.png"
+image: "/assets/images/blog/research-bg.png"
 description: ""
 tags: product design
 ---
