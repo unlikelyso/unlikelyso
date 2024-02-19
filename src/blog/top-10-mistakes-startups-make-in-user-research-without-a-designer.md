@@ -3,7 +3,9 @@ title: Top 10 mistakes startups make in user research (without a designer)
 date: 2024-02-19
 length: "5 min 9 sec"
 image: "/assets/images/blog/research-bg.png"
-description: ""
+description: "The startups that I’ve worked with in the past have made common mistakes with user research. These
+mistakes were avoidable because they were known to designers, but these startups didn’t have
+in-house design expertise."
 tags: product design
 ---
 
