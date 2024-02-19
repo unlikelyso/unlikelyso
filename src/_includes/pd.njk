@@ -410,7 +410,9 @@
         <h2 class="ts-fs-2 fw-800 mb-24">Blog posts</h2>
         <div class="ts-container p-0">
           <div class="ts-blog-group mb-80">
-          {% include "postlist.njk" %}
+            {% for post in collections.posts | reverse %}
+              {% include "postlist.njk" %}
+            {% endfor %}
           </div>
         </div>
       </div>

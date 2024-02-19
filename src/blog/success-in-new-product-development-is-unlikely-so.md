@@ -26,6 +26,7 @@ and coach others through the [inevitable ups and downs](https://fora.com/blog/fa
 tremendous learning opportunities and impact that is less stressful with experienced guidance.
 <br/><br/>
 
+
 An essential part of coaching teams in new product development is developing healthy interpersonal
 communication among team members. Team dynamics are intangible but critical. The impact of effective
 communication may be hard to quantify, but the lack of it can be felt keenly. Team conflict makes

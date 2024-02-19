@@ -35,7 +35,7 @@
 * {
   margin: 0;
   padding: 0;
-  letter-spacing: 0.01em;
+  letter-spacing: 0em;
 }
 
 html {
@@ -69,6 +69,7 @@ h4,
 h5,
 h6 {
   font-family: "Nunito Sans", sans-serif;
+  letter-spacing: 0.01em;
 }
 
 p,
@@ -514,9 +515,10 @@ li {
   gap: 5rem;
 }
 
-/* .ts-links a {
-  padding: 20px;
-} */
+a {
+  text-decoration: none;
+  color: var(--blue-2);
+}
 .ts-navbar__link {
   text-decoration: none;
   color: #1e1e1e;
@@ -959,7 +961,7 @@ li {
 @media (max-width: 991px) {
   .ts-blog-details__content {
     grid-template-columns: 1fr;
-    gap: clamp(1.5rem, 6vw, 80px);
+    gap: clamp(3.5rem, 6vw, 80px);
   }
 }
 
