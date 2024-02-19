@@ -5,7 +5,8 @@ length: "5 min 9 sec"
 image: "/assets/images/blog/research-bg.png"
 description: "The startups that I’ve worked with in the past have made common mistakes with user research. These
 mistakes were avoidable because they were known to designers, but these startups didn’t have
-in-house design expertise."
+in-house design expertise. I’ve also been at big companies with established design teams that made
+the same mistakes because Design was not a mature practice and was treated like a service org."
 tags: product design
 ---
 
