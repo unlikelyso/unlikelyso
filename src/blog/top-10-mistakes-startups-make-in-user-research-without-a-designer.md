@@ -7,7 +7,7 @@ description: "The startups that I’ve worked with in the past have made common 
 mistakes were avoidable because they were known to designers, but these startups didn’t have
 in-house design expertise. I’ve also been at big companies with established design teams that made
 the same mistakes because Design was not a mature practice and was treated like a service org."
-tags: product design
+tags: product design, new product development
 ---
 
 The startups that I’ve worked with in the past have made common mistakes with user research. These

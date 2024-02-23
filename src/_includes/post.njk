@@ -184,7 +184,7 @@
           </div>
           <div>
             <div class="mb-40">
-              {% for post in collections.posts  | reverse %}
+              {% for post in collections.posts | reverse %}
                 {% if (post.url != page.url ) %} 
                   {% include "postlist.njk" %}
                 {% endif %}
