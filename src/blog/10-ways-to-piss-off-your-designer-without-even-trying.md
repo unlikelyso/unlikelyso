@@ -1,7 +1,7 @@
 ---
-title: How to piss off your designer without even trying
+title: 10 ways to piss off your designer without even trying
 date: 2024-02-27
-length: "6 min 7 sec"
+length: "6 min 19 sec"
 image: "/assets/images/blog/how-bg.png"
 description: ""
 tags: product design, interpersonal communication
@@ -86,6 +86,8 @@ Designers can be difficult to work with if you are unaware of the challenges tha
     <span class="fw-700">Can you do user research, interaction design, visual design, branding, some coding, and marketing?</span>
     <p>
     Designers in startups are often the only ones. They are responsible for user research, interaction design, visual design, marketing collateral, and likely more. Each of these responsibilities is a discipline with its own challenges and is a tremendous undertaking for a single person and can quickly lead to burnout. This versatility might be treated as common and expected and not compensated for what, in reality, are several roles. Wearing different hats is necessary for a startup but shouldn't be taken for granted.
+    <br/><br/>
+    Having honest conversations when difficult situations happen can resolve many disagreements, but it is a learned skill to do so effectively. The teams that have gone through my interpersonal communication training have found it to be pragmatic and immediately applicable, leading to more effective collaboration.
     </p>
   </li>
 </ol>
