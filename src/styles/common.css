@@ -516,8 +516,8 @@ li {
 }
 
 a {
-  text-decoration: none;
-  color: var(--blue-2);
+  text-decoration: underline;
+  color: #1e1e1e;
 }
 .ts-navbar__link {
   text-decoration: none;
@@ -940,11 +940,9 @@ a {
 /* ================================================= */
 
 .ts-blog-details__title {
-  /*
   display: grid;
   grid-template-columns: 2fr 1fr;
   gap: clamp(1.875rem, 0vw, 104px);
-  */
 }
 
 .ts-blog-details__content {
