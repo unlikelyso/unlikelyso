@@ -161,7 +161,7 @@ transform a troubled relationship into an understanding, collaborative one.
     read articles or listen to talks about design and enthusiastically bring them back to the team.
     They may then excitedly recount a wonderful lesson they learned and translate it into advice for
     the designer that effectively means: "Create user-friendly experiences.” This is the equivalent
-    of telling an engineer to write high-quality code The designer will already know core design
+    of telling an engineer to write high-quality code. The designer will already know core design
     principles. A non-designer trying to educate them on something fundamental is likely to be
     interpreted as questioning their expertise.
     </p>
