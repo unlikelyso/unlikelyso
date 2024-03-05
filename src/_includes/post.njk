@@ -186,7 +186,7 @@
             <div class="mb-40">
               {% for post in collections.posts | reverse %}
                 {% if (post.url != page.url ) %} 
-                  {% include "postlist.njk" %}
+                  {% include "sidebarlist.njk" %}
                 {% endif %}
               {% endfor %}
             </div>

@@ -911,6 +911,18 @@ a {
   }
 }
 
+.ts-blog-card__image {
+  height: 200px;
+  border-radius: 4px 4px 0 0;
+  background-size: cover;
+}
+
+.ts-blog-card__wrapper {
+  padding:  1.5rem;
+  border: 1px solid var(--gray-5);
+  border-radius: 0 0 4px 4px;
+}
+
 .ts-blog-card__title {
   letter-spacing: -0.01em;
   line-height: 1.8125rem;

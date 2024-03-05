@@ -1,7 +1,7 @@
 ---
 title: Success in new product development is unlikely…so?
 date: 2024-01-23
-length: "1 min"
+length: "2 min"
 image: "/assets/images/blog/success-bg.png"
 description: "New product development is intense and often fails, but it is so much fun — I love it. In my career
 at tech startups and big companies, I have worked through many cycles and experienced the enormous

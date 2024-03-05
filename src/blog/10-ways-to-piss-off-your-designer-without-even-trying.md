@@ -1,7 +1,7 @@
 ---
 title: 10 ways to piss off your designer without even trying
 date: 2024-02-28
-length: "6 min"
+length: "7 min"
 image: "/assets/images/blog/how-bg.png"
 description: "Designers can be difficult to work with if you are unaware of the challenges that make their jobs
 impossible. The challenges might be unavoidable, but understanding and acknowledging them may

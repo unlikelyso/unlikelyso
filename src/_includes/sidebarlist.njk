@@ -1,7 +1,5 @@
   <div class="ts-blog-card">
     <a href="{{ post.url }}">
-      <div class="ts-blog-card__image" style="background-image: url({{ post.data.image }})"></div>
-      <div class="ts-blog-card__wrapper">
       <h4 class="ts-blog-card__title ts-fs-4 ts-text-gray-2 mb-8">
         {{ post.data.title }}
       </h4>
@@ -10,7 +8,6 @@
       </div>
       <div class="ts-fs-8 ts-text-gray-4 fw-500">
         {{ post.data.date | postDate }} · {{ post.data.length }} read
-      </div>
       </div>
     </a>
   </div>
