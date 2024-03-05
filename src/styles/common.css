@@ -921,6 +921,7 @@ a {
   padding:  1.5rem;
   border: 1px solid var(--gray-5);
   border-radius: 0 0 4px 4px;
+  min-height: 150px;
 }
 
 .ts-blog-card__title {
