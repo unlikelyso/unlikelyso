@@ -74,6 +74,7 @@ h6 {
 
 p,
 ul,
+ol,
 li {
   line-height: 150%;
 }
@@ -879,15 +880,22 @@ a {
 /* ================================================= */
 /* ================================================= */
 
-.ts-latest-blog {
- padding-bottom: 2em;
-}
-
 .ts-blog-group {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem 3rem;
 }
+
+.ts-blog-more {
+  background-color: var(--gray-8);
+  display: grid;
+
+  .ts-blog-card__wrapper {
+    border: solid 1px var(--gray-7);
+    background: var(--white);
+  }
+}
+
 @media (max-width: 991px) {
   .ts-blog-group {
     grid-template-columns: repeat(2, 1fr);
@@ -919,7 +927,7 @@ a {
 
 .ts-blog-card__wrapper {
   padding:  1.5rem;
-  border: 1px solid var(--gray-5);
+  background: var(--gray-8);
   border-radius: 0 0 4px 4px;
   min-height: 150px;
 }
@@ -952,24 +960,21 @@ a {
 /* ================================================= */
 /* ================================================= */
 
-.ts-blog-details__title {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: clamp(1.875rem, 0vw, 104px);
-}
-
+.ts-blog-details__title,
 .ts-blog-details__content {
   display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: clamp(1.875rem, 8vw, 104px);
+  grid-auto-columns: 680px;
+  justify-content: center;
 }
 
 @media (max-width: 1200px) {
+  .ts-blog-details__title,
   .ts-blog-details__content {
     gap: clamp(1.5rem, 6vw, 80px);
   }
 }
 @media (max-width: 991px) {
+  .ts-blog-details__title,
   .ts-blog-details__content {
     grid-template-columns: 1fr;
     gap: clamp(3.5rem, 6vw, 80px);
@@ -1008,6 +1013,19 @@ ol {
   }
 }
 
+ul {
+  padding-left: 1.25rem;
+
+  li {
+    padding-bottom: .75rem;
+
+    p {
+      font-weight: 400;
+      padding-bottom: 1rem;
+    }
+  }
+}
+
 @media (min-width: 992px) {
   .ts-about__content {
     grid-template-columns: 1.35fr 1fr;
@@ -1016,7 +1034,7 @@ ol {
 }
 @media (max-width: 991px) {
   .ts-about {
-    background-color: #f9f9f9;
+    background-color: var(--gray-8);
     padding: 0;
   }
   .ts-about__content {

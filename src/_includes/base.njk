@@ -78,7 +78,7 @@
     </script>
   </head>
   <body>
-    <nav class="ts-navbar-container ts-light">
+    <nav class="ts-navbar-container">
       <div class="ts-container">
         <header class="ts-navbar">
           <a class="ts-navbar__logo" href="/">
@@ -839,15 +839,19 @@
       </div>
     </section>
     
-    <section class="ts-latest-blog ts-py-80">
+    <section class="ts-py-80">
       <div class="ts-container">
         <h2 class="ts-fs-2 fw-800 mb-24">Latest blog posts</h2>
         <div class="ts-container p-0">
-          <div class="ts-blog-group mb-80">
-            {% for post in collections.posts | reverse %}
+          <div class="ts-blog-group mb-24">
+            {% set posts = collections.posts | reverse | limit(3) %}
+            {% for post in posts %}
               {% include "postlist.njk" %}
             {% endfor %}
           </div>
+        <a class="ts-fs-6 ts-text-blue-2 text-decoration-none ts-btn-seemore fw-700 mb-80" href="/blog">See all
+         <img width="14" src="../assets/icons/arrow-right.svg" alt="..."/>
+        </a>
         </div>
       </div>
     </section>

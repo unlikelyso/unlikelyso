@@ -183,8 +183,6 @@ transform a troubled relationship into an understanding, collaborative one.
 Each of these situations is frustrating, but the weight of it all can make a designer’s work
 unbearable. So when the designer you work with is upset, consider which of the situations above they
 might be struggling with. Having honest conversations when difficult situations happen can resolve
-many disagreements, but it is a learned skill to do so effectively. The teams that have learned how
-to do so through <a href="/interpersonal-communication/">interpersonal communication training</a> have found it to be pragmatic and immediately
-applicable, leading to more effective collaboration.
+many disagreements, leading to more effective collaboration.
 </p>
 

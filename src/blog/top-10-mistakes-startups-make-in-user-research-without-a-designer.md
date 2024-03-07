@@ -54,7 +54,9 @@ the same mistakes because Design was not a mature practice and was treated like 
     Well-intentioned teams that believe in listening to users can make the mistake of creating a
     list of features and then sending users a survey asking which ones they want. I have seen this
     multiple times. In most cases, the surveys are biased and can lead the company to draw faulty
-    assumptions. Crafting unbiased questions is difficult if the team has not been trained. Surveys
+    assumptions. <a
+    href="https://www.userinterviews.com/ux-research-field-guide-chapter/surveys">Crafting unbiased questions</a>
+    is difficult if the team has not been trained. Surveys
     can be helpful if the team has performed qualitative research and uses them to falsify
     hypotheses. Otherwise, creating roadmaps based on survey results can potentially waste time and
     money.
@@ -153,6 +155,7 @@ the same mistakes because Design was not a mature practice and was treated like 
 <p>
 User research may feel daunting, but shouldn't be avoided despite the lack of a user researcher or
 designer. Given the typical startup configuration of engineers and founders, there are ways for
-interested team members to perform user research. To get a guide for how to do so, subscribe to
-stay updated with my “Scrappy UX for Startups” series.
+<a
+href="https://review.firstround.com/a-ux-research-crash-course-for-founders-customer-discovery-tips-from-zoom-zapier-and-dropbox/">interested
+team members to perform user research.</a>
 </p>

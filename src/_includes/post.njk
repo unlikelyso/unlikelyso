@@ -168,7 +168,14 @@
                 />
               </div>
               <div>
-                <p class="ts-fs-5 fw-400">Tina Nguyen</p>
+                <p class="ts-fs-5 fw-400">
+                  Tina Nguyen
+                  <a href="https://www.linkedin.com/in/nanguyen">
+                    <img width="16"
+                       src="../assets/images/linked-in.png"
+                       alt="LinkedIn"/>
+                  </a>
+                </p>
                 <p class="ts-fs-7 ts-text-gray-9 fw-400">
                    {{ length }} read · {{ date | postDate }}
                 </p>
@@ -176,29 +183,33 @@
             </div>
           </div>
         </div>
-        <div class="ts-blog-details__content mb-64">
+        <div class="ts-blog-details__content">
           <div>
             <p class="ts-fs-6 mb-20">
                 {{ content | safe }}
             </p>
           </div>
-          <div>
-            <div class="mb-40">
-              {% for post in collections.posts | reverse %}
-                {% if (post.url != page.url ) %} 
-                  {% include "sidebarlist.njk" %}
-                {% endif %}
-              {% endfor %}
-            </div>
-
-            <!--
-            <a class="ts-fs-6 ts-text-blue-2 text-decoration-none ts-btn-seemore fw-700" href="/blog">See all
-              <img width="14" src="../assets/icons/arrow-right.svg" alt="..."/>
-            </a>
-            -->
-          </div>
+          <div class="ml-embedded mb-40 mt-64" data-form="6UGoTA"></div>
         </div>
-      <div class="ml-embedded mb-40" data-form="6UGoTA"></div>
+
+      </div>
+    </section>
+    <section class="ts-blog-more ts-py-80">
+      <div class="ts-container">
+        <h2 class="ts-fs-4 fw-800 mb-24">More blog posts</h2>
+        <div class="ts-container p-0">
+          <div class="ts-blog-group mb-24">
+            {% set posts = collections.posts | reverse %}
+            {% for post in posts %}
+            {% if (post.url != page.url ) and (loop.index0 < 4) %}
+              {% include "postlist.njk" %}
+            {% endif %}
+            {% endfor %}
+          </div>
+        <a class="ts-fs-6 ts-text-blue-2 text-decoration-none ts-btn-seemore fw-700" href="/blog">See all
+         <img width="14" src="../assets/icons/arrow-right.svg" alt="..."/>
+        </a>
+        </div>
       </div>
     </section>
 
