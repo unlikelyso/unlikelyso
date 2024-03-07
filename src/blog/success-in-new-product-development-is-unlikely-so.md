@@ -3,9 +3,8 @@ title: Success in new product development is unlikely…so?
 date: 2024-01-23
 length: "2 min"
 image: "/assets/images/blog/success-bg.png"
-description: "New product development is intense and often fails, but it is so much fun — I love it. In my career
-at tech startups and big companies, I have worked through many cycles and experienced the enormous
-stress and pressure that going from 0-1 has on individuals and how that impacts team dynamics."
+description: "Unlikely LLC coaches teams at later-stage startups and established orgs in new product
+development, interpersonal communication, and product design."
 tags: new product development, interpersonal comms, product design, coaching
 ---
 

@@ -3,9 +3,8 @@ title: 10 ways to piss off your designer without even trying
 date: 2024-02-28
 length: "7 min"
 image: "/assets/images/blog/how-bg.png"
-description: "Designers can be difficult to work with if you are unaware of the challenges that make their jobs
-impossible. The challenges might be unavoidable, but understanding and acknowledging them may
-transform a troubled relationship into an understanding, collaborative one."
+description: "Common situations at startups and established companies that frustrate designers and make them seem
+hard to work with to engineers and product managers."
 tags: product design, interpersonal communication
 ---
 

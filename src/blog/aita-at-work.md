@@ -3,9 +3,8 @@ title: AITA at work?
 date: 2024-03-07
 length: "7 min"
 image: "/assets/images/blog/what-bg.png"
-description: "How does it happen that someone becomes an a-hole at work? It’s hard to believe that anyone would
-begin their day gleefully planning how they might destroy someone else’s. Yet a-holes certainly
-exist — we’ve all worked with them at some point."
+description: "Suppressing our emotions causes us to become inadvertent a-holes at
+work because they leak and leads us to act in ways that create toxic workplaces."
 tags: interpersonal communication
 ---
 
