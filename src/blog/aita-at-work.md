@@ -79,7 +79,7 @@ Some examples of behaviors that have unintentionally negative impacts:
   <li>
     Engineers take the initiative to make a product or design decision without communicating their
     intent (#2 in <a
-    href="https://www.unlikely.so/10-ways-to-piss-off-your-designer-without-even-trying/">“10 ways
+    href="/10-ways-to-piss-off-your-designer-without-even-trying/">“10 ways
     to piss off your designer without even trying</a>," but all items on that
     list apply).
   </li>
