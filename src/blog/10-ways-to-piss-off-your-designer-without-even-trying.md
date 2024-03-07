@@ -19,9 +19,7 @@ transform a troubled relationship into an understanding, collaborative one.
   <li>
     <span class="fw-700">We don’t have the budget or time for user research.</span>
     <p>
-    This common situation — pitfall #1 in my post "<a
-    href="/top-10-mistakes-startups-make-in-user-research-without-a-designer">Top 10 mistakes startups make in user research
-    (without a designer)</a>" — happens at both early-stage startups and established companies.
+    This <a href="/top-10-mistakes-startups-make-in-user-research-without-a-designer">common situation</a> happens at both early-stage startups and established companies.
     Sometimes, competing priorities create budget issues. Sometimes, inertia. A designer asks for
     user research when there is a gap in understanding. Unless they focus purely on visual or
     graphic design, designers can't do their best work without understanding the user.
@@ -31,7 +29,10 @@ transform a troubled relationship into an understanding, collaborative one.
     insufficient and can be misleading. All opinions are valid without user feedback, but the
     highest-paid opinion carries the most weight. Accepting feedback from leaders who do not have
     design expertise forces designers to create what they believe to be subpar user experiences,
-    making it difficult to do their best work.
+    making it difficult to do their best work. User research can be daunting, but is essential for 
+    <a
+    href="https://review.firstround.com/a-ux-research-crash-course-for-founders-customer-discovery-tips-from-zoom-zapier-and-dropbox/">finding
+    product-market fit.</a>
     </p>
   </li>
   <li>
@@ -67,10 +68,8 @@ transform a troubled relationship into an understanding, collaborative one.
     <span class="fw-700">This is how I would use it.</span>
     <p>
     Teams that are not in the habit of soliciting user feedback rely on personal opinions to
-    evaluate designs. While they should always feel comfortable giving feedback on UX, they are not
-    the end users (see pitfall #2 of "<a
-    href="/top-10-mistakes-startups-make-in-user-research-without-a-designer">Top 10 mistakes startups make in user research (without a
-    designer)</a>"). The team does not realize that their opinions are just that — subjective opinions —
+    evaluate designs. While they should always feel comfortable giving feedback on UX, <a
+    href="/top-10-mistakes-startups-make-in-user-research-without-a-designer">they are not the end users</a>. The team does not realize that their opinions are just that — subjective opinions —
     so it exerts pressure on the designer to make changes.
     </p>
     <p>
