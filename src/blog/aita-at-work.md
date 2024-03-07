@@ -1,7 +1,7 @@
 ---
 title: AITA at work? 
 date: 2024-03-07
-length: "7 min"
+length: "5 min"
 image: "/assets/images/blog/what-bg.png"
 description: "Suppressing our emotions causes us to become inadvertent a-holes at
 work because they leak and leads us to act in ways that create toxic workplaces."
