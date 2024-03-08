@@ -6,7 +6,7 @@ image: "/assets/images/blog/what-bg.png"
 thumbnail: "/assets/images/blog/what-thumb.png"
 description: "Suppressing our emotions causes us to become inadvertent a-holes at
 work because they leak and leads us to act in ways that create toxic workplaces."
-tags: interpersonal communication
+tags: interpersonal comms
 ---
 
 How does it happen that someone becomes an a-hole at work? It’s hard to believe that anyone would
