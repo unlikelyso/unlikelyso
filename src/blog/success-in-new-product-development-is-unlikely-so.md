@@ -3,6 +3,7 @@ title: Success in new product development is unlikely…so?
 date: 2024-01-23
 length: "2 min"
 image: "/assets/images/blog/success-bg.png"
+thumbnail: "/assets/images/blog/success-thumb.png"
 description: "Unlikely LLC coaches teams at later-stage startups and established orgs in new product
 development, interpersonal communication, and product design."
 tags: new product development, interpersonal comms, product design, coaching

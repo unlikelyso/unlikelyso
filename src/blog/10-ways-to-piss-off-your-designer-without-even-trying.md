@@ -3,6 +3,7 @@ title: 10 ways to piss off your designer without even trying
 date: 2024-02-28
 length: "7 min"
 image: "/assets/images/blog/how-bg.png"
+thumbnail: "/assets/images/blog/how-thumb.png"
 description: "Common situations at startups and established companies that frustrate designers and make them seem
 hard to work with to engineers and product managers."
 tags: product design, interpersonal communication

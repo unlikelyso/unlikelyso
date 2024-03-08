@@ -3,6 +3,7 @@ title: Top 10 mistakes startups make in user research (without a designer)
 date: 2024-02-19
 length: "6 min"
 image: "/assets/images/blog/research-bg.png"
+thumbnail: "/assets/images/blog/research-thumb.png"
 description: "Early-stage startup teams consisting of only founders and engineers without a
 researcher or designer make these basic mistakes in approaching user research."
 tags: product design, new product development
