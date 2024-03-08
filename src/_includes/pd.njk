@@ -398,7 +398,7 @@
       <div class="ts-container">
         <h2 class="ts-fs-2 fw-800 mb-24">Blog posts</h2>
         <div class="ts-container p-0">
-          <div class="ts-blog-group mb-80">
+          <div class="ts-blog-group mb-24">
             {% set posts = collections.posts | reverse | limit(3) %}
             {% for post in posts %}
               {% include "postlist.njk" %}
