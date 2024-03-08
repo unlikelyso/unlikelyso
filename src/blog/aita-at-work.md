@@ -77,11 +77,8 @@ Some examples of behaviors that have unintentionally negative impacts:
     Copying a colleague's manager on an email when asking that colleague to complete a task.
   </li>
   <li>
-    Engineers take the initiative to make a product or design decision without communicating their
-    intent (#2 in <a
-    href="/10-ways-to-piss-off-your-designer-without-even-trying/">“10 ways
-    to piss off your designer without even trying</a>," but all items on that
-    list apply).
+    Engineers take the initiative to
+    <a href="/10-ways-to-piss-off-your-designer-without-even-trying/">make a product or design decision without communicating</a> their intent.
   </li>
   <li>
     A team member disagrees with the product or company direction but doesn't say anything during

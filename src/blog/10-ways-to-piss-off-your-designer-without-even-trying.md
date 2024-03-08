@@ -180,8 +180,8 @@ transform a troubled relationship into an understanding, collaborative one.
 <p>
 Each of these situations is frustrating, but the weight of it all can make a designer’s work
 unbearable. So when the designer you work with is upset, consider which of the situations above they
-might be struggling with. Having <a href="/aita-at-work/">honest
-conversations</a> when difficult situations happen can resolve
+might be struggling with. Having honest
+conversations when <a href="/aita-at-work/">difficult situations</a> happen can resolve
 many disagreements, leading to more effective collaboration.
 </p>
 
