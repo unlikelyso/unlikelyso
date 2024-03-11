@@ -64,8 +64,9 @@ the same mistakes because Design was not a mature practice and was treated like 
   <li>
     <span class="fw-700">Pitching during a user interview instead of learning about the user.</span>
     <p>
-    Startup teams are naturally excited about their ideas, so when they speak to users, they tend to
-    sell instead. Their questions are variations of: “Would you use this?” In the face of such
+    Startup teams are naturally excited about their ideas, so when they speak to users, they <a
+    href="https://www.userinterviews.com/blog/from-failure-to-a-venture-backed-startup-through-meta-user-research">tend to
+    sell</a> instead. Their questions are variations of: “Would you use this?” In the face of such
     enthusiasm, people may say something positive to not disappoint. However, this derails the
     conversation and turns an opportunity to discover unmet needs into another data point for
     confirmation bias.
