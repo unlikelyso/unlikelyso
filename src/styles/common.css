@@ -754,7 +754,7 @@ a {
 /* Footer */
 .ts-footer {
   padding-block: 2.5rem;
-  border-top: 1px solid #eeeeee;
+  border-top: 1px solid var(--gray-6);
 }
 
 .ts-footer__content {
@@ -896,6 +896,13 @@ a {
     border: solid 1px var(--gray-7);
     background: var(--white);
   }
+}
+
+.callout {
+  line-height: 150%;
+  border-top: 1px solid var(--gray-6);
+  padding: 1em 0;
+  font-style: italic;
 }
 
 @media (max-width: 991px) {

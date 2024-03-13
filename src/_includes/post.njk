@@ -175,14 +175,17 @@
         <div class="ts-blog-details__content">
           <div>
             <p class="ts-fs-6 mb-20">
-                {{ content | safe }}
+              {{ content | safe }}
             </p>
           </div>
-          <div class="ml-embedded mb-40 mt-64" data-form="6UGoTA"></div>
+          <div class="callout">
+              {{ callout | safe }}
+          </div>
+          <div class="ml-embedded mb-40" data-form="6UGoTA"></div>
         </div>
-
       </div>
     </section>
+
     <section class="ts-blog-more ts-py-80">
       <div class="ts-container">
         <h2 class="ts-fs-4 fw-800 mb-24">More blog posts</h2>
