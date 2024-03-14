@@ -520,11 +520,17 @@ li {
 
 a {
   text-decoration: underline;
-  color: #1e1e1e;
+  color: var(--gray-2);
+
+  &:hover {
+    color: var(--green);
+    color: #0fab74;
+  }
 }
+
 .ts-navbar__link {
   text-decoration: none;
-  color: #1e1e1e;
+  color: var(--gray-2);
   position: relative;
   transition: color 300ms ease-in-out;
   font-size: 1.25rem;
@@ -573,7 +579,7 @@ a {
   }
 }
 .ts-navbar-fade-in .ts-navbar__link {
-  color: #1e1e1e;
+  color: var(--gray-2);
 }
 .ts-navbar-fade-in .ts-burger svg path {
   fill: #000 !important;
@@ -925,6 +931,9 @@ a {
 
   a {
     text-decoration: none;
+    &:hover {
+      color: var(--gray-2); 
+    }  
   }
 }
 
@@ -975,6 +984,7 @@ a {
   display: grid;
   grid-auto-columns: 680px;
   justify-content: center;
+  gap: clamp(1.5rem, 6vw, 80px);
 }
 
 @media (max-width: 1200px) {
