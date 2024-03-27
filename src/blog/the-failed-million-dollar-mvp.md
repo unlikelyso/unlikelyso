@@ -4,13 +4,13 @@ date: 2024-03-27
 length: "7 min"
 image: "/assets/images/blog/money-bg.png"
 thumbnail: "/assets/images/blog/money-thumb.png"
-description: "The benefits and challenges of a team-led vs an exec-led approach to new product
+description: "The benefits and challenges of a team-led vs exec-led approach to new product
 development and situations where the team-led approach is helpful."
 tags: "new product development"
 callout: Explore how you can speed up innovation and train your team in <a href="/new-product-development">new product development</a>.
 ---
 
-There is no single path to success in new product development, but it can feel like there is only
+There is no single path to <a href="https://review.firstround.com/series/product-market-fit/">success in new product development</a>, but it can feel like there is only
 one way (whether at a startup or a big company) — that of the founders or executives. For these
 teams, it can feel like a tightrope walk where any departure from leadership’s vision will lead to
 failure. Despite a desire to “fail fast, fail often,” most teams do not actually succeed in that
@@ -20,30 +20,31 @@ can guarantee product-market fit. I favor the team-led model because of the posi
 can have in uniting a team, encouraging them to stretch beyond their comfort zone and do their best
 work — where both company and personal growth goals align. There are some challenges to work through
 in either of these models.
-<br/><br/>
+<br/><br/><br/>
 
 <img width='100%' 
      src='../assets/images/blog/fracturedlego.png' 
      alt='A Lego figure deconstructed into parts.' />
-<br/><br/>
+<br/><br/><br/>
+
 <b>Pressure</b>
-<br/>
+<br/><br/>
 
 In the exec-led model of new product development, there is immense pressure on the founders or
 executives to convince team members of the validity of their vision. If a PM lead exists on the
 team, their job is to make the product that leadership has envisioned successful — the solution has
-been decided. This exerts enormous pressure on the team members to buy in, despite misgivings, and
+been decided. This exerts enormous pressure on team members to buy in, despite misgivings, and
 to commit wholly to building out that vision. I’ve experienced both sides of this model. As a team
 member, I’ve participated in prolonged debates with leadership who seemed unmoved by the concerns
-raised by the team. The team, unable to change leadership’s mind and exhausted from frequent
-debates, reluctantly falls in line and builds out the vision despite lingering doubts.
+raised by the team. Unable to change leadership’s mind and exhausted from frequent
+debates, the team reluctantly falls in line and builds out the vision despite lingering doubts.
 <br/><br/>
 
-Having acted as the product lead at various times in my career in startup and big company
-environments, I’ve felt the tremendous weight of trying to steer the team toward success — there was
+Having acted as the product lead in startup and big company environments, I’ve felt the tremendous
+weight of trying to steer the team toward success — there was
 never much room for failure. Perceived stumbles resulted in decreased faith from jittery executives
 in other parts of the company who sought resources for their own teams. Failure meant the project's
-cancellation at a big company. At a startup, failure meant a shortened runway and the looming
+cancellation at a big company. At a startup, a shortened runway and the looming
 dissolution of the company.
 <br/><br/>
 
@@ -69,24 +70,15 @@ come from leadership. Instead, two team members created it, riffing on each othe
 felt pressure to succeed, but it was a weight that we all shared. There was joint problem-solving
 and a shared sense of adventure — it was even fun. We were a team trying to figure out a way forward
 together rather than just a group of colleagues doing their jobs.
-<br/><br/>
-
-Product success is owned by the entire team, not just the person acting as product lead. Everyone
-pitches in to do what is needed according to their skills and interests. In the early stages, titles
-and functional roles matter little as everyone pitches in with user interviews, defining the problem
-and hypotheses based on user needs. In one of my experiences, the prototype that showed the most
-promise did not come from leadership. Instead, two team members created it, riffing on each other's
-ideas. We still felt pressure to succeed, but it was a weight that we all shared. There was joint
-problem-solving and a shared sense of adventure — it was even fun. We were a team trying to figure
-out a way forward together, rather than just a group of colleagues doing their jobs.
-<br/><br/>
+<br/><br/><br/>
 
 <img width ='100%' 
      src='../assets/images/blog/hourglass.png' 
      alt='An hourglass with blue sands draining, sitting on a bed of rocks.' />
-<br/><br/>
+<br/><br/><br/>
+
 <b>Time and money</b>
-<br/>
+<br/><br/>
 
 In the traditional exec-led model, creating an MVP can take nine months to 1.5 years or more before
 leadership decides to continue investing or end the project. Without a clear positive result, the
@@ -106,18 +98,19 @@ feedback, so in 12 weeks, the team should be able to validate several hypotheses
 they might have been wrong, and adjust course. The team can build on their past findings — failures
 aren't bad because they're just learnings. If there isn’t a way forward — as in one of my
 experiences — then the call to stop happens earlier. The cost of these learnings in both time and
-money is significantly less than in the traditional product development model. If this approach has
-a potentially higher ROI, why do most teams follow the exec-led model?
-<br/><br/>
+money is significantly less than in the traditional product development model. But if this approach has
+a higher ROI, why do most teams follow the exec-led model?
+<br/><br/><br/>
 
 <img width='100%'
      src='../assets/images/blog/rollercoaster.png' 
      alt='A group of people upside down on a roller coaster' />
-<br/><br/>
-<b>Certainty, security, and clarity</b>
-<br/>
+<br/><br/><br/>
 
-Being a part of a team with a leader with a clear vision brings a sense of security. This top-down
+<b>Certainty, security, and clarity</b>
+<br/><br/>
+
+Being a part of a team with a leader who has a clear vision brings a sense of security. This top-down
 approach is reassuring because the product leaders know what they’re doing (at least, they project
 that confidence). Team members only need to worry about execution. Product managers take on more
 project management responsibilities rather than needing to figure out product-market fit. This
@@ -143,12 +136,12 @@ responsibility.
 Team members who are not used to having so much autonomy, even if it is something that they desire, may
 <a href="http://fora.com/blog/failing-to-success/">become frustrated</a>. 
 Prior early-stage product development experience or expert guidance helps the team manage
-uncertainty and avoid becoming stalled. Those who are product-oriented and want to experience the
-impact of their efforts first-hand do their best work under this model.
+uncertainty and avoid becoming stalled. This model encourages high performance, allowing those who are
+product-oriented, and want to experience the impact of their efforts first-hand, to do their best work.
 <br/><br/>
 
 <b>Where that leaves us</b>
-<br/>
+<br/><br/> 
 Scenarios where this team-led approach to product development shines:
 <br/><br/>
 <ol>
