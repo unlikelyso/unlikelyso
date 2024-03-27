@@ -4,8 +4,8 @@ date: 2024-03-27
 length: "8 min"
 image: "/assets/images/blog/money-bg.png"
 thumbnail: "/assets/images/blog/money-thumb.png"
-description: "The benefits and challenges of a team-led vs exec-led approach to new product
-development and situations where the team-led approach is helpful."
+description: "Explore the pitfalls of traditional executive-led product development versus a
+team-led approach with lessons from real-world experiences."
 tags: "new product development"
 callout: Explore how you can speed up innovation and train your team in <a href="/new-product-development">new product development</a>.
 ---
