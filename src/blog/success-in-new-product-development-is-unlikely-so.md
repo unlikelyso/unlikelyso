@@ -6,7 +6,7 @@ image: "/assets/images/blog/success-bg.png"
 thumbnail: "/assets/images/blog/success-thumb.png"
 description: "Unlikely LLC coaches teams at later-stage startups and established orgs in new product
 development, interpersonal communication, and product design."
-tags: new product development, interpersonal comms, product design, coaching
+tags: ["new product development", "interpersonal comms", "product design"]
 callout: 'Explore how you can train your team in <a href="/new-product-development">0-1</a>, improve
 <a href="/interpersonal-communication">team communication</a>, and fully <a
 href="/product-design">utiltize UX</a>.'
