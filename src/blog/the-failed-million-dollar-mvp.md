@@ -1,7 +1,7 @@
 ---
 title: The failed million-dollar MVP
 date: 2024-03-27
-length: "7 min"
+length: "8 min"
 image: "/assets/images/blog/money-bg.png"
 thumbnail: "/assets/images/blog/money-thumb.png"
 description: "The benefits and challenges of a team-led vs exec-led approach to new product
@@ -98,8 +98,8 @@ feedback, so in 12 weeks, the team should be able to validate several hypotheses
 they might have been wrong, and adjust course. The team can build on their past findings — failures
 aren't bad because they're just learnings. If there isn’t a way forward — as in one of my
 experiences — then the call to stop happens earlier. The cost of these learnings in both time and
-money is significantly less than in the traditional product development model. But if this approach has
-a higher ROI, why do most teams follow the exec-led model?
+money is significantly less than in the traditional product development model. If this approach has
+a potentially higher ROI, why do most teams follow the exec-led model?
 <br/><br/><br/>
 
 <img width='100%'
@@ -110,7 +110,7 @@ a higher ROI, why do most teams follow the exec-led model?
 <b>Certainty, security, and clarity</b>
 <br/><br/>
 
-Being a part of a team with a leader who has a clear vision brings a sense of security. This top-down
+Being a part of a team with a leader with a clear vision brings a sense of security. This top-down
 approach is reassuring because the product leaders know what they’re doing (at least, they project
 that confidence). Team members only need to worry about execution. Product managers take on more
 project management responsibilities rather than needing to figure out product-market fit. This
@@ -118,7 +118,8 @@ command-control approach works well when there are strong signals for product-ma
 the certainty and security might be short-lived if that is not true.
 <br/><br/>
 
-In the success scenario, at some point, the top-down product development process may hinder
+In the best-case scenario, the solution dictated by leadership finds product-market fit. The company
+grows and is successful for awhile. At some point, continuing with this top-down process may hinder
 scalability and innovation because executives become the bottleneck for decision-making. The
 business becomes vulnerable to stagnation and competitive threats. User growth and revenue can
 flatten or decline (e.g. <a href="https://www.nytimes.com/2023/06/15/business/instant-brands-bankruptcy.html">Instant Pot</a>),
@@ -133,68 +134,69 @@ much a learning experience for leadership to delegate as for team members to ass
 responsibility.
 <br/><br/>
 
-Team members who are not used to having so much autonomy, even if it is something that they desire, may
+In the team-led model, team members who are not used to having so much autonomy, even if it is something that they desire, may
 <a href="http://fora.com/blog/failing-to-success/">become frustrated</a>. 
 Prior early-stage product development experience or expert guidance helps the team manage
-uncertainty and avoid becoming stalled. This model encourages high performance, allowing those who are
-product-oriented, and want to experience the impact of their efforts first-hand, to do their best work.
+uncertainty and avoid becoming stalled. Those who are product-oriented and want to experience the
+impact of their efforts first-hand do their best work under this model.
 <br/><br/>
 
-<b>Where that leaves us</b>
+<b>When does that team-led model work?</b>
 <br/><br/> 
-Scenarios where this team-led approach to product development shines:
+There are a few scenarios where this team-led approach to product development shines:
 <br/><br/>
 <ol>
   <li>
     An early-stage startup team consisting of founders and a few team members. 
     <p>
-        Many people are attracted to joining startups because of the potential for impact and the
-        opportunity to learn things that would not be available to them in a big company. Inviting
-        them to fully participate in the process as thought partners make the best use of their
-        drive and energy with the founders still hands-on. If initial efforts aren't fruitful, the
-        team will learn and will have learned to fail together, making them more effective in
-        subsequent efforts. When the team is successful, the company will have multiple trusted team
-        members capable of driving product development as the company scales.
+      Many people are attracted to joining startups because of the potential for impact and the
+      opportunity to learn things that would not be available to them in a big company. Inviting
+      them to fully participate in the process as thought partners makes the best use of their drive
+      and energy, while the founders are still hands-on. If initial efforts aren't fruitful, the
+      team will learn and will have learned to fail together, making them more effective in
+      subsequent efforts. When the team is successful, the company will have multiple trusted team
+      members capable of driving product development as the company scales.
     </p>
   </li>
   <li>
     A team in a growth-stage startup when the founders can no longer make day-to-day product decisions.
     <p>
-        This inflection point is a good time for the founders to select talented team members who
-        can lead and train them to make decisions that jive with the original vision. Although the
-        founders are unable to be as actively involved as they had been in the early stages of the
-        startup, they can still provide significant guidance in steering the team toward a desired
-        goal — the team needs to experience the ups and downs of new product development and have
-        the leeway to make and learn from their mistakes. This way, the founders can gain confidence
-        that the team knows how to make quick decisions and keep mistakes cheap.
+      This inflection point is a good time for the founders to select talented team members who can
+      lead and train them to make decisions that jive with the original vision. Although the
+      founders cannot be as actively involved as they had been in the early stages of the startup,
+      they can still provide significant guidance in steering the team toward a desired goal. The
+      team needs to experience the ups and downs of new product development and have the leeway to
+      make and learn from their mistakes. This way, the founders can gain confidence that the team
+      can make quick decisions and keep mistakes cheap.
     </p>
   </li>
   <li> An in-house team in a large company can be tasked to experiment and create potential new product lines. 
     <p>
-        There are likely team members in the organization who yearn for the experience of creating
-        new products but who may need more training. These team members are well-trained in their
-        craft and just need coaching through the process. Given that the company has a stable,
-        growing core product, such an investment would be worthwhile to mitigate the risk of
-        stagnation.
+      There are likely team members in the organization who yearn for the experience of creating new
+      products but who may need more guided opportunities to learn. These team members are
+      well-trained in their craft and just need coaching through the experimentation process. Given
+      that the company has a stable, growing core product, such an investment would be worthwhile to
+      mitigate the risk of stagnation.
     </p>
   </li>
 </ol>
 
-New product development can mean creating entirely new products or new features that add to an
+New product development can mean creating entirely new products or adding new features to an
 existing product. Instead of getting caught up in lengthy and complex MVP phases, companies
 (regardless of size and stage) can prioritize short, iterative cycles with clear goals and
 hypotheses. Instead of doggedly building out a full-fledged MVP that may not yield desired results,
 the team will have three more cycles (assuming the average of a year-long cycle) to attempt to do so
-versus one and a much longer runway.
+versus one cycle and a much longer runway.
 <br/><br/>
 
 There is no silver bullet to success in product development. Failures are disappointing, but we can
-alleviate their impact with the lessons learned. When there is room to fail, there is more room for
-risk-taking and creativity and better chances for innovation. Having a process for new product
-development can sound scary because of the connotation of bureaucracy and slowness, but the de facto
-exec-led process exists regardless. A lightweight process acknowledges and alleviates the anxiety of
-uncertainty and ambiguity.  By changing the experience, leadership can approach new product
-development in a structured, user-centered manner that fully utilizes the potential and skills of
-the entire team, thus inspiring and energizing them in growing the business and their own
-professional and personal growth.
+alleviate their impact by learning concrete lessons about users and the market. When there is room
+to fail, there is more room for risk-taking and creativity and better chances for innovation.
+Startups shy away from having a process for new product development because of the connotation of
+bureaucracy and slowness, but the de facto exec-led process exists regardless. A lightweight process
+acknowledges and alleviates the anxiety of uncertainty and ambiguity.  By changing the experience,
+leadership can approach new product development in a structured, user-centered manner that fully
+utilizes the potential and skills of the entire team, thus inspiring and energizing them in growing
+the business and their own professional and personal growth.
+
 
