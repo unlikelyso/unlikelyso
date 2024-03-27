@@ -43,7 +43,7 @@ Most of us aspire to be rational, logical, and data-driven (especially in tech).
 numbers and hard evidence and disregard intangible things like feelings. We control our emotions —
 often by denying that we have them — and are proud that we can hide them.
 <br/><br/>
-Can we though? 
+<b>Can we though? </b>
 <br/><br/>
 Whether or not we admit to them, we have feelings. Those seemingly controlled emotions leak despite
 our best efforts. Others are often aware of our emotional state, even if we are stone-faced. They
@@ -107,12 +107,15 @@ Some examples of behaviors that have unintentionally negative impacts:
   </li>
 </ul>
 <br/>
-<br/>
 <p>
 The list goes on as we can all add our experiences to this. These behaviors likely seemed reasonable
 to the people who committed them. On the receiving end, we call them a-hole behavior.
 <br/><br/>
-What impact does suppressing our feelings have?
+<img width ='100%' 
+     src='../assets/images/blog/distressedlego.png' 
+     alt='A blue Lego figure with a distressed expression.' />
+<br/><br/>
+<b>What impact does suppressing our feelings have?</b>
 <br/><br/>
 The leader who required silence may have meant well and might have been trying to help improve team
 productivity by creating an environment conducive to concentration. They may have had any number of
@@ -132,7 +135,7 @@ these create a chicken-and-egg cycle. Sometimes, the transgression might be mino
 unaddressed, small things compound. The only possible outcome then is for one of us to quit when our
 misery becomes intolerable. 
 <br/><br/>
-So AITA at work?
+<b>So AITA at work?</b>
 <br/><br/>
 Labeling ourselves or others can provide temporary relief, but reduces everyone to caricatures.
 Vindication is short-lived and we are eventually left with lingering resentment. It might be
