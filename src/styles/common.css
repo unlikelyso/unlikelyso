@@ -91,6 +91,12 @@ li {
   margin-inline: auto;
 }
 
+.tagline,
+.subtagline {
+  line-height: 130%;
+  display: block;
+}
+
 .ts-work {
   margin-top: 10rem;
 }
@@ -118,7 +124,10 @@ li {
   font-size: clamp(2rem, 4.5vw, 2.5rem);
 }
 .ts-fs-4 {
-  font-size: clamp(1.25rem, 4vw, 1.5rem);
+  font-size: clamp(1.875rem, 4vw, 1.5rem);
+}
+.ts-fs-4-ii {
+  font-size: clamp(1.5rem, 4vw, 1.5rem);
 }
 .ts-fs-5 {
   font-size: clamp(1.125rem, 4vw, 1.25rem);
@@ -140,7 +149,7 @@ li {
   color: var(--blue);
 }
 .ts-text-blue-2 {
-  color: var(--blue-2) !important;
+  color: var(--blue-2);
 }
 .ts-text-black {
   color: var(--black);
@@ -516,6 +525,12 @@ li {
   align-items: center;
   list-style: none;
   gap: 5rem;
+}
+
+.swiper-slide {
+  a:hover {
+    color: var(--white);
+  }
 }
 
 a {
