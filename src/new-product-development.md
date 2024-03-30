@@ -1,5 +1,5 @@
 ---
-title: New product development coaching
+title: New product development
 layout: npd.njk
 ---
 

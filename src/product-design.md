@@ -1,5 +1,5 @@
 ---
-title: Product design coaching
+title: Product design
 layout: pd.njk
 ---
 

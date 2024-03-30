@@ -149,7 +149,7 @@ li {
   color: var(--blue);
 }
 .ts-text-blue-2 {
-  color: var(--blue-2);
+  color: var(--blue-2) !important;
 }
 .ts-text-black {
   color: var(--black);
@@ -377,8 +377,11 @@ li {
 .p-24 {
   padding: 1.5rem;
 }
-.p-36 {
+.p-32 {
   padding: 2rem;
+}
+.p-40 {
+  padding: 2.5rem;
 }
 .pr-24 {
   padding-right: 1rem;
@@ -968,7 +971,6 @@ a {
 
 .ts-blog-card__title {
   letter-spacing: -0.01em;
-  line-height: 1.8125rem;
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 2;
@@ -1034,6 +1036,12 @@ a {
   padding: 2.5rem 0;
 }
 
+.ts-what__content {
+  display: grid;
+  gap: 4.75rem;
+  padding: 3.5rem 0;
+}
+
 ol {
   padding-left: 1.25rem;
   
@@ -1066,11 +1074,19 @@ ul {
     grid-template-columns: 1.35fr 1fr;
     padding: 2.5rem;
   }
+  .ts-what__content {
+    grid-template-columns: 1.35fr 1fr;
+    padding: 3.5rem;
+  }
 }
 @media (max-width: 991px) {
   .ts-about {
     background-color: var(--gray-8);
     padding: 0;
+  }
+  .ts-what__content {
+    padding: 48px 24px;
+    gap: 0;
   }
   .ts-about__content {
     padding-block: 40px 0;
