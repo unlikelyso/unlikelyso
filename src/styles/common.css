@@ -531,6 +531,7 @@ li {
   align-items: center;
   list-style: none;
   gap: 5rem;
+  padding-left: 0;
 }
 
 .swiper-slide {
@@ -605,6 +606,11 @@ a {
 .ts-navbar-fade-in .ts-burger svg path {
   fill: #000 !important;
 }
+
+.email-cta {
+  display: inline;
+}
+
 @media screen and (min-width: 768px) {
   .ts-burger {
     display: none;
@@ -643,7 +649,11 @@ a {
   padding-block: 40px;
   display: none;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
+  .email-cta {
+    display: block;
+  }
+
   .ts-navbar__navbar {
     background-color: white;
     position: absolute;
@@ -1101,8 +1111,11 @@ ul {
     background-color: var(--gray-8);
     padding: 0;
   }
-  .ts-faq__content,
   .ts-work__content,
+  .ts-faq__content {
+    padding: 0;
+  }
+
   .ts-what__content {
     padding: 48px 24px;
     gap: 3rem;
