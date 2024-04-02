@@ -1,5 +1,5 @@
 ---
 title: Team communication
-layout: tc.njk
+layout: comms.njk
 ---
 

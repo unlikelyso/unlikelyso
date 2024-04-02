@@ -1,5 +1,5 @@
 ---
 title: Product design
-layout: pd.njk
+layout: design.njk
 ---
 
