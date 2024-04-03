@@ -63,15 +63,14 @@
     </script>
   </head>
   <body>
-    <nav class="ts-navbar-container">
+
+    <div class="ts-navbar-container ts-white">
       <div class="ts-container">
-        <header class="ts-navbar ts-navbar--light">
+        <header class="ts-navbar">
           <a class="ts-navbar__logo" href="/">
-            <img src="../assets/images/logo-white.png" height="40px" alt="Unlikely"/>
+            <img src="../assets/images/logo.png" height="40px" alt="Unlikely"/>
           </a>
           <div class="ts-burger">
-            <!-- <i class="ts-open fa-solid fa-bars"></i>
-            <i class="ts-close fa-solid fa-x"></i> -->
             <span class="ts-open">
               <svg
                 width="21"
@@ -108,6 +107,7 @@
               </svg>
             </span>
           </div>
+
           <nav class="ts-navbar__navbar">
             <ul class="ts-links">
               <li>
@@ -128,15 +128,11 @@
           </nav>
         </header>
       </div>
-    </nav>
+    </div>
 
     <section
       class="ts-hero ts-hero--sm"
       style="background-image: url({{ image }})">
-      <div class="ts-container">
-        <div class="ts-hero__content">
-        </div>
-      </div>
     </section>
 
     <section class="mt-64">
@@ -144,17 +140,13 @@
 
         <div class="ts-blog-details__title mb-24">
           <div>
-            <h1 class="ts-fs-2 mb-16 ts-font-inter fw-900">
-              {{ title }}
-            </h1>
-
+            <h1 class="ts-fs-2 mb-16 ts-font-inter fw-900">{{ title }}</h1>
             <div class="ts-profile mt-24">
               <div>
                 <img
                   class="ts-profile__img"
                   src="../assets/images/blog/user.png"
-                  alt="Tina Nguyen"
-                />
+                  alt="Tina Nguyen" />
               </div>
               <div>
                 <p class="ts-fs-5 fw-400">
@@ -165,13 +157,12 @@
                        alt="LinkedIn"/>
                   </a>
                 </p>
-                <p class="ts-fs-7 ts-text-gray-9 fw-400">
-                   {{ length }} read · {{ date | postDate }}
-                </p>
+                <p class="ts-fs-7 ts-text-gray-9 fw-400">{{ length }} read · {{ date | postDate }}</p>
               </div>
             </div>
           </div>
         </div>
+
         <div class="ts-blog-details__content">
           <div>
             <p class="ts-fs-6 mb-20">
@@ -179,7 +170,7 @@
             </p>
           </div>
           <div class="callout">
-              {{ callout | safe }}
+            {{ callout | safe }}
           </div>
           <div class="ml-embedded mb-40" data-form="6UGoTA"></div>
         </div>
@@ -193,14 +184,14 @@
           <div class="ts-blog-group mb-24">
             {% set posts = collections.posts | reverse %}
             {% for post in posts %}
-            {% if (post.url != page.url ) and (loop.index0 < 4) %}
-              {% include "postlist.njk" %}
-            {% endif %}
+              {% if (post.url != page.url ) and (loop.index0 < 4) %}
+                {% include "postlist.njk" %}
+              {% endif %}
             {% endfor %}
           </div>
-        <a class="ts-fs-6 ts-text-blue-2 text-decoration-none ts-btn-seemore fw-700" href="/blog">See all
-         <img width="14" src="../assets/icons/arrow-right.svg" alt="..."/>
-        </a>
+          <a class="ts-fs-6 ts-text-blue-2 text-decoration-none ts-btn-seemore fw-700" href="/blog">See all
+            <img width="14" src="../assets/icons/arrow-right.svg" alt="..."/>
+          </a>
         </div>
       </div>
     </section>
@@ -208,8 +199,8 @@
     <footer class="ts-footer text-center mb-64">
       <div class="ts-container">
         <div class="ts-footer__content">
-            &copy; Unlikely LLC
-            <script>document.write( new Date().getFullYear() );</script>
+          &copy; Unlikely LLC
+          <script>document.write( new Date().getFullYear() );</script>
         </div>
       </div>
     </footer>

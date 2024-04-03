@@ -1,5 +1,5 @@
 .ts-burger svg path {
-  fill: #fff;
+  fill: #000;
 }
 
 @media only screen and (max-width: 450px) {
