@@ -535,6 +535,7 @@ li {
 }
 
 .swiper-slide {
+  height: auto;
   a:hover {
     color: var(--white);
   }
