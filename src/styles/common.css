@@ -81,10 +81,6 @@ li {
   line-height: 150%;
 }
 
-/* ::selection {
-  color: var(--ts-white-color);
-  background-color: var(--ts-secondary-color);
-} */
 .ts-container {
   max-width: 71.875rem;
   padding-inline: 1.5rem;
