@@ -77,10 +77,10 @@
           <nav class="ts-navbar__navbar">
             <ul class="ts-links">
               <li>
-                <a class="ts-navbar__link ts-text-blue-2" href="/#work"> Coaching </a>
+                <a class="ts-navbar__link ts-text-blue-2" href="/"> Coaching </a>
               </li>
               <li>
-                <a class="ts-navbar__link" href="/#about"> About </a>
+                <a class="ts-navbar__link" href="/about"> About </a>
               </li>
               <li>
                 <a class="ts-navbar__link" href="/blog"> Blog </a>
@@ -100,7 +100,7 @@
 
     <section
       class="ts-hero text-center"
-      style="background: url('../assets/images/comms/coffee-bg.png') center center; background-size: cover;"> 
+      style="background: url('../assets/images/comms/coffee-bg.png') center top; background-size: cover;"> 
       <div class="ts-container">
         <div class="ts-hero__content">
           <h1 class="ts-fs-1 fw-100">
@@ -508,7 +508,7 @@
     </section>
     <section class="ts-latest-blog ts-py-80">
       <div class="ts-container">
-        <h2 class="ts-fs-2 fw-800 mb-24">Blog posts</h2>
+        <h3 class="ts-fs-3 fw-800 mb-24">Related posts</h3>
         <div class="ts-container p-0">
           <div class="ts-blog-group mb-24">
             {% set posts = collections['interpersonal comms'] | reverse | limit(3) %}

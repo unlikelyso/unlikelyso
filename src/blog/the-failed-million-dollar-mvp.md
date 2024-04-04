@@ -10,7 +10,7 @@ tags: "new product development"
 callout: Explore how you can speed up innovation and train your team in <a href="/new-product-development">new product development</a>.
 ---
 
-There is no single path to <a href="https://review.firstround.com/series/product-market-fit/">success in new product development</a>, but it can feel like there is only
+There is no single path to success in new product development, but it can feel like there is only
 one way (whether at a startup or a big company) — that of the founders or executives. For these
 teams, it can feel like a tightrope walk where any departure from leadership’s vision will lead to
 failure. Despite a desire to “fail fast, fail often,” most teams do not actually succeed in that
@@ -189,7 +189,8 @@ the team will have three more cycles (assuming the average of a year-long cycle)
 versus one cycle and a much longer runway.
 <br/><br/>
 
-There is no silver bullet to success in product development. Failures are disappointing, but we can
+There is no silver bullet to <a
+href="https://review.firstround.com/series/product-market-fit/">success in product development</a>. Failures are disappointing, but we can
 alleviate their impact by learning concrete lessons about users and the market. When there is room
 to fail, there is more room for risk-taking and creativity and better chances for innovation.
 Startups shy away from having a process for new product development because of the connotation of
