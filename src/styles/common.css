@@ -594,8 +594,8 @@ a {
 .ts-navbar-fade-in .ts-navbar__link {
   color: var(--gray-2);
 }
-.ts-navbar-fade-in .ts-burger svg path {
-  fill: #000 !important;
+.ts-navbar-fade-in .ts-burger {
+  color: #000 !important;
 }
 
 .email-cta {
@@ -681,8 +681,8 @@ a {
   .ts-navbar-active .ts-btn-container {
     display: block !important;
   }
-  .ts-navbar-active .ts-burger svg path {
-    fill: #000 !important;
+  .ts-navbar-active .ts-burger {
+    color: #000 !important;
   }
   .ts-navbar-active .ts-container {
     border-bottom: 1px solid #dddddd;

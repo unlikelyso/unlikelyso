@@ -40,8 +40,7 @@ const add_class_on_scroll = () => {
   if (tsNavbarLogo) {
     tsNavbarLogo.src = "../assets/images/logo.png";
   }
-  // tsContactBtn.style.display = "block";
-  //tsContactBtn.classList.remove("d-none");
+  
 };
 const remove_class_on_scroll = () => {
   tsNavbarContainer.classList.remove("ts-navbar-fade-in");
