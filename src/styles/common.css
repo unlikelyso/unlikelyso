@@ -347,6 +347,9 @@ li {
 .mb-24 {
   margin-bottom: 1.5rem;
 }
+.mb-32 {
+  margin-bottom: 2rem;
+}
 .mb-40 {
   margin-bottom: 2.5rem;
 }
@@ -369,7 +372,6 @@ li {
 .p-0 {
   padding: 0;
 }
-
 .p-16 {
   padding: 1rem;
 }
