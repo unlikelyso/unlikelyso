@@ -7,14 +7,14 @@ thumbnail: "/assets/images/blog/rollercoaster-thumb.png"
 description: "Unlikely LLC coaches teams at later-stage startups and established orgs in new product
 development, interpersonal communication, and product design."
 tags: ["new product development", "interpersonal comms", "product design"]
-callout: 'Explore how you can train your team in <a href="/new-product-development">0-1</a>, improve
+callout: 'Explore how you can train your team in <a href="/new-product-development">0&ndash;1</a>, improve
 <a href="/interpersonal-communication">team communication</a>, and fully <a
 href="/product-design">utiltize UX</a>.'
 ---
 
 New product development is intense and often fails, but it is so much fun — I love it. In my career
 at tech startups and big companies, I have worked through many cycles and experienced the enormous
-stress and pressure that going from 0-1 has on individuals and how that impacts team dynamics. I
+stress and pressure that going from 0&ndash;1 has on individuals and how that impacts team dynamics. I
 have experienced ambiguity, uncertainty, doubt, and fear in figuring out how to productize ideas,
 where failure likely meant the end for a startup (and unemployment) or the dissolution of a business
 unit inside an established company. Given that 90% of startups fail, good outcomes are unlikely.
@@ -40,7 +40,7 @@ Some think of “unlikely” as a negative term, as in “but that’s not going
 as “yes and.” Even though the reality of creating a successful new product has a low probability of
 success, teams can achieve unlikely good things through structured experimentation, short learning
 cycles, and rapid iteration. While none of this is revolutionary, knowledge doesn’t necessarily
-translate to action. Having a framework for going from 0-1 is helpful and even better when adapted
+translate to action. Having a framework for going from 0&ndash;1 is helpful and even better when adapted
 to suit the team — I’ve done this effectively multiple times by understanding the goals and needs of
 the team and its members.
 <br/><br/>

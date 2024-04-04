@@ -533,7 +533,10 @@ li {
   }
 }
 
-
+.icon-shift {
+  position: relative;
+  top: 1px;
+}
 
 .swiper-slide {
   height: auto;

@@ -7,7 +7,7 @@ thumbnail: "/assets/images/blog/research-thumb.png"
 description: "Early-stage startup teams consisting of only founders and engineers without a
 researcher or designer make these basic mistakes in approaching user research."
 tags: ["product design", "new product development"]
-callout: 'Explore how you can train your team in <a href="/new-product-development">0-1</a>, and fully <a
+callout: 'Explore how you can train your team in <a href="/new-product-development">0&ndash;1</a>, and fully <a
 href="/product-design">utiltize UX</a>.'
 ---
 
