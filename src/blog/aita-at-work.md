@@ -4,8 +4,7 @@ date: 2024-03-07
 length: "5 min"
 image: "/assets/images/blog/what-bg.png"
 thumbnail: "/assets/images/blog/what-thumb.png"
-description: "Suppressing our emotions causes us to become inadvertent a-holes at
-work because they leak and leads us to act in ways that create toxic workplaces."
+description: "Suppressing our emotions causes us to become inadvertent a-holes at work because they leak and leads us to act in ways that create toxic workplaces."
 tags: "interpersonal comms"
 callout: Learn more about how you can improve <a href="/interpersonal-communication">team communication.</a>
 ---
