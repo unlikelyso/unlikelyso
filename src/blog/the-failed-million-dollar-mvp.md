@@ -6,7 +6,7 @@ image: "/assets/images/blog/money-bg.png"
 thumbnail: "/assets/images/blog/money-thumb.png"
 description: "Explore the pitfalls of traditional executive-led product development versus a
 team-led approach with lessons from real-world experiences."
-tags: "new product development"
+tags: ["new product development"]
 callout: Explore how you can speed up innovation and train your team in <a href="/new-product-development">new product development</a>.
 ---
 
@@ -74,7 +74,7 @@ together rather than just a group of colleagues doing their jobs.
 
 <img width ='100%' 
      src='../assets/images/blog/hourglass.png' 
-     alt='An hourglass with blue sands draining, sitting on a bed of rocks.' />
+     alt='An hourglass with blue sands draining, sitting on a bed of rocks.'/>
 <br/><br/><br/>
 
 <b>Time and money</b>
@@ -104,7 +104,7 @@ a potentially higher ROI, why do most teams follow the exec-led model?
 
 <img width='100%'
      src='../assets/images/blog/rollercoaster.png' 
-     alt='A group of people upside down on a roller coaster' />
+     alt='A group of people upside down on a roller coaster'/>
 <br/><br/><br/>
 
 <b>Certainty, security, and clarity</b>
@@ -189,8 +189,8 @@ the team will have three more cycles (assuming the average of a year-long cycle)
 versus one cycle and a much longer runway.
 <br/><br/>
 
-There is no silver bullet to <a
-href="https://review.firstround.com/series/product-market-fit/">success in product development</a>. Failures are disappointing, but we can
+There is no silver bullet to <a href="https://review.firstround.com/series/product-market-fit/">success in product development</a>.
+Failures are disappointing, but we can
 alleviate their impact by learning concrete lessons about users and the market. When there is room
 to fail, there is more room for risk-taking and creativity and better chances for innovation.
 Startups shy away from having a process for new product development because of the connotation of
