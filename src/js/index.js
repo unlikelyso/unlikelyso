@@ -15,16 +15,19 @@ var reviewSwiper2 = new Swiper(".reviewSwiper2", {
   autoplay: {
     delay: 10000,
   },
+  rewind: true,
   slidesPerView: 1,
   spaceBetween: 16,
   breakpoints: {
     767: {
       slidesPerView: 2,
       spaceBetween: 25,
+      slidesPerGroup: 2,
     },
     991: {
       slidesPerView: 3,
       spaceBetween: 40,
+      slidesPerGroup: 3,
     },
   },
 });
