@@ -10,3 +10,10 @@ public
 *.swp
 *.swp
 *.swp
+src/_includes/.postlist.njk.swp
+src/_includes/.postlist.njk.swp
+src/_includes/.post.njk.swp
+.gitignore.swp
+.package.json.swp
+src/_includes/.base.njk.swo
+src/_includes/.post.njk.swo

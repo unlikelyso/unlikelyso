@@ -562,7 +562,7 @@ a {
   font-size: 1.25rem;
   font-weight: 600;
 }
-*/
+
 .ts-navbar__link-active,
 .ts-navbar__link:hover {
   color: #0fab74 !important;
@@ -907,6 +907,10 @@ a {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem 3rem;
+
+  li {
+    font-weight: 700;
+  }
 }
 
 .ts-blog-more {
@@ -1047,7 +1051,7 @@ ol {
   padding-left: 1.25rem;
   
   li {
-    font-weight: 700;
+    font-weight: 400;
     padding-bottom: .25rem;
     
     p {
