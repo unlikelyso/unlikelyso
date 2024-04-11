@@ -81,12 +81,6 @@ li {
   line-height: 150%;
 }
 
-header {
-  p {
-    text-align: left;
-  }
-}
-
 .ts-container {
   max-width: 71.875rem;
   padding-inline: 1.5rem;
