@@ -81,6 +81,12 @@ li {
   line-height: 150%;
 }
 
+header {
+  p {
+    text-align: left;
+  }
+}
+
 .ts-container {
   max-width: 71.875rem;
   padding-inline: 1.5rem;
@@ -610,6 +616,9 @@ a {
 
   header {
     justify-content: space-between;
+    p {
+      margin: 0 12rem;
+    }
   }
 
   .navbar {
@@ -869,6 +878,12 @@ a {
   li {
     padding-bottom: 0;
   }
+}
+
+.tag {
+  padding: .75em;
+  margin: 1em 0 0;
+  display: inline-block;
 }
 
 .ts-sidebar-container {
