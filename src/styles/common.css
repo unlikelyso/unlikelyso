@@ -1113,7 +1113,8 @@ ul {
     padding: 0rem 15rem;
   }
   .ts-work__content {
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: fit-content(65ch) fit-content(344px);
+    justify-content: space-between;
   }
   .ts-what__content {
     grid-template-columns: 1.35fr 1fr;

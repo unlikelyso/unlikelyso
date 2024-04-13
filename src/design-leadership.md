@@ -1,5 +1,5 @@
 ---
-title: Product design
+title: Design leadership
 layout: design.njk
 ---
 
