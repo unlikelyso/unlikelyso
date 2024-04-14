@@ -6,7 +6,8 @@ image: "/assets/images/blog/money-bg.png"
 thumbnail: "/assets/images/blog/money-thumb.png"
 description: "Explore the pitfalls of traditional executive-led product development versus a team-led approach with lessons from real-world experiences."
 tags: "new product development"
-callout: 'Explore how you can speed up innovation and train your team in <a href="/new-product-development">new product development.</a>'
+callout: 'Explore how you can speed up innovation and train your team in <a
+href="/product-facilitation">new product development.</a>'
 ---
 
 There is no single path to success in new product development, but it can feel like there is only

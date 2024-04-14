@@ -7,8 +7,8 @@ thumbnail: "/assets/images/blog/how-thumb.png"
 description: "Common situations at startups and established companies that frustrate designers and make them seem
 hard to work with to engineers and product managers."
 tags: ["product design", "interpersonal comms"]
-callout: 'Explore how you can improve <a href="/interpersonal-communication">team communication</a>, and fully <a
-href="/product-design">utiltize UX</a>.'
+callout: 'Explore how you can improve <a href="/communication-coaching">team communication</a>, and fully <a
+href="/design-leadership">utiltize UX</a>.'
 ---
 
 Designers can be difficult to work with if you are unaware of the challenges that make their jobs

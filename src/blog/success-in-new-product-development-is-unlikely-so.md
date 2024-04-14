@@ -6,9 +6,9 @@ image: "/assets/images/blog/rollercoaster-bg.png"
 thumbnail: "/assets/images/blog/rollercoaster-thumb.png"
 description: "Partnering with founders and product leaders in startup ventures to coach their teams in new product development, team communication and product design, unleashing their potential to power company growth."
 tags: ["new product development", "interpersonal comms", "product design"]
-callout: 'Explore how you can train your team in <a href="/new-product-development">0&ndash;1</a>, improve
-<a href="/interpersonal-communication">team communication</a>, and fully <a
-href="/product-design">utiltize UX</a>.'
+callout: 'Explore how you can train your team in <a href="/product-facilitation">0&ndash;1</a>, improve
+<a href="/communication-coaching">team communication</a>, and fully <a
+href="/design-leadership">utiltize UX</a>.'
 ---
 
 New product development is intense and often fails, but it is so much fun — I love it. In my career
