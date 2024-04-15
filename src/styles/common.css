@@ -407,7 +407,6 @@ li {
 .pb-80 {
   padding-bottom: 5em !important;
 }
-
 .ts-py-64 {
   padding-block: clamp(1rem, 5vw, 5rem);
 }
@@ -786,10 +785,6 @@ a {
   background: var(--gray-11);
   display: flex;
   align-items: center;
-}
-
-.review-section {
-  padding-top: 8rem;
 }
 
 /* Footer */
