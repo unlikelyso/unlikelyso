@@ -19,7 +19,8 @@ exec-led product development model and a team-led one. Each of these models has 
 can guarantee product-market fit. I favor the team-led model because of the positive impact that it
 can have in uniting a team, encouraging them to stretch beyond their comfort zone and do their best
 work — where both company and personal growth goals align. There are some challenges to work through
-in either of these models.
+in either of these models that early startup teams (founders and a few members) should consider when
+evaluating the right approach for them.
 <br/><br/><br/>
 
 <img width='100%' 
