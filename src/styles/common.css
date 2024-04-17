@@ -1027,6 +1027,9 @@ a {
   grid-auto-columns: 680px;
   justify-content: center;
   gap: clamp(1.5rem, 6vw, 80px);
+  ol li {
+    font-weight: 700;
+  }
 }
 
 @media (max-width: 1200px) {
