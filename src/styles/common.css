@@ -877,6 +877,7 @@ a {
   display: grid;
   grid-template-columns: 2fr 1fr;
   gap: 5rem;
+  padding: 0 3.5rem;
 }
 
 .ts-work__content ul {

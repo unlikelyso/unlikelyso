@@ -5,7 +5,7 @@ length: "2 min"
 image: "/assets/images/blog/rollercoaster-bg.png"
 thumbnail: "/assets/images/blog/rollercoaster-thumb.png"
 description: "Partnering with founders and product leaders in startup ventures to coach their teams in new product development, team communication and product design, unleashing their potential to power company growth."
-tags: ["new product development", "interpersonal comms", "product design"]
+tags: ""
 callout: 'Explore how you can train your team in <a href="/product-facilitation">0→1</a>, improve
 <a href="/communication-coaching">team communication</a>, and fully <a
 href="/design-leadership">utiltize UX</a>.'
