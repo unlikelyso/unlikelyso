@@ -289,6 +289,7 @@ li {
   padding: 1rem 2rem;
 }
 .ts-btn-primary {
+  font-family: "Nunito Sans", sans-serif;
   background-color: #078aab;
   color: var(--gray-3);
   letter-spacing: 0.03em;
@@ -816,10 +817,7 @@ a {
     width: -webkit-fill-available;
   }
   .ts-btn-primary {
-    width: -webkit-fill-available;
-  }
-  .review-section {
-    padding-top: 4rem;
+    width: auto;
   }
 }
 @media (min-width: 992px) {
@@ -1155,7 +1153,7 @@ ul {
   left: 0;
   top: 0;
   transform: translate(-50%, -50%);
-  width: clamp(5rem, 15vw, 8.75rem);
+  width: clamp(3rem, 3vw, 8.75rem);
 }
 .swiper-pagination {
   position: relative;
@@ -1181,6 +1179,7 @@ ul {
 .work__content {
   padding: 24px;
   background: var(--gray-11);
+  border-radius: 4px;
 }
 .work__content_label {
   color: var(--gray-2);
