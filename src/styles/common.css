@@ -818,7 +818,7 @@ a {
     width: -webkit-fill-available;
   }
   .ts-btn-primary {
-    width: -webkit-fill-available;
+    width: auto;
   }
 }
 @media (min-width: 992px) {
