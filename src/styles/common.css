@@ -89,7 +89,7 @@ li {
 
 .tagline,
 .subtagline {
-  line-height: 150%;
+  line-height: 130%;
   display: block;
 }
 
@@ -737,6 +737,11 @@ a {
     border-top: 1px solid var(--gray-9);
     padding: 1.5rem 0;
     margin-top: 2rem;
+  }
+
+  .tagline,
+  .subtagline {
+    line-height: 150%;
   }
 }
 
