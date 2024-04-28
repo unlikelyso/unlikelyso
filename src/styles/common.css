@@ -1087,7 +1087,7 @@ a {
 .ts-about__content {
   display: grid;
   gap: 3.75rem;
-  padding: 2.5rem 0;
+  padding: 5rem;
 }
 
 .ts-assess__container {
@@ -1144,7 +1144,6 @@ ul {
   }
   .ts-about__content {
     grid-template-columns: 1.35fr 1fr;
-    padding: 2.5rem;
   }
   .ts-faq__content {
     grid-template-columns: 1fr;
@@ -1183,10 +1182,11 @@ ul {
     gap: 0;
   }
   .ts-about__content {
-    padding-block: 40px 0;
+    padding: 1rem;
+    gap: 1rem;
   }
   .ts-about__text {
-    padding-inline: 1.5rem;
+    padding: 2rem 0 0 1rem;
   }
   .ts-about-card {
     padding: 1.5rem;
