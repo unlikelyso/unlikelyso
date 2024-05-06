@@ -764,6 +764,10 @@ a {
   .subtagline {
     line-height: 150%;
   }
+
+  .ts-faq__content {
+    padding: 0;
+  }
 }
 
 .ts-navbar-fade-in {
@@ -1172,8 +1176,7 @@ ul {
     background-color: var(--gray-8);
     padding: 0;
   }
-  .ts-work__content,
-  .ts-faq__content {
+  .ts-work__content {
     padding: 0;
   }
 
