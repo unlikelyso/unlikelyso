@@ -4,7 +4,7 @@ date: 2024-05-20
 length: "9 min"
 image: "/assets/images/blog/team-bg.png"
 thumbnail: "/assets/images/blog/team-thumb.png"
-description: "A story about the benefit of design thinking and practical examples of how design thinking can be used to create MVPs in startup environments."
+description: "A story about the benefits of design thinking and practical examples of how design thinking can be used to create MVPs in startup environments."
 tags: ["new product development", "product design"]
 callout: 'Explore how you can speed up innovation and train your team in <a
 href="/product-facilitation">new product development.</a>'
