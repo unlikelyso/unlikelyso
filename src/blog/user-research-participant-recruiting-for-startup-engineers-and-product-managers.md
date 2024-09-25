@@ -120,10 +120,10 @@ genuine gratitude and appreciation.
 <br/>
 
 <p>
-You might fear doing so too often and wearing out your welcome. That is definitely possible, but I
-have pestered my friends and family over the years, but they have not minded - they were used to it.
+You might fear doing so too often and wearing out your welcome. That is definitely possible. I
+have pestered my friends and family over the years, but they have not minded — they were used to it.
 And if they minded, they did not respond. So reach out and ask. Let people decide for themselves.
-Switch up your recruiting pool so that they can get a break. !!! Could friends and family be biased
+Switch up your recruiting pool so that they can get a break. Could friends and family be biased
 and not give honest feedback because they do not want to hurt your feelings? This problem exists
 with random strangers as well. There are ways to elicit frank feedback and get around their desire
 to please and be nice. What is a more probable drawback is that they might represent a skewed
@@ -141,7 +141,7 @@ for participants).
 
 <p>
 Recruiting friends and family can be slow because you will have to wait for their responses and
-availability, which can take a few days, if not more. So even though this is the no-cost option, it
+availability, which can take a few days, if not longer. So even though this is the no-cost option, it
 does cost you in time. If you cannot wait a few days to a week to interview participants, head to
 busy public spaces.
 </p>
@@ -150,7 +150,7 @@ busy public spaces.
 <p>
 This is also a no-cost method, but it is a much faster way to find participants: ask strangers you
 meet in areas with lots of foot traffic (malls, downtowns, train stations, etc). This is also
-potentially the most terrifying option - it was for me. The first time I ever had to approach people
+potentially the most terrifying option — it was for me. The first time I ever had to approach people
 to interview them in this unstructured manner, I froze. I had been trained as a software engineer
 and never had to interact with end users. I could not comprehend just walking up to a stranger and
 talking to them. As an introvert, it took me years and many awkward experiences to become less
@@ -195,7 +195,7 @@ heard designers and researchers express reluctance to use these services. They w
 user research participants (those who sign up for many studies to earn side income). They could be
 weeded out through questionnaires and calls, but that took effort and added delays. Even after the
 additional work to ensure that participants meet the study criteria, some might still slip
-through - I have encountered a few myself. This has not been as big of a problem as some have
+through — I have encountered a few myself. This has not been as big of a problem as some have
 feared. There were at most 1–2 in a study with 10–15 participants, and their experiences were valid.
 When I was concerned, I recruited more participants to replace them. The greater risk is refusing to
 use a recruiting service out of fear and not speaking to enough users quickly. Do not get stuck just
@@ -238,9 +238,9 @@ understand the space more thoroughly is a huge hurdle.
 When recruiting user research participants, it's common practice to include an incentive, usually
 gift cards. Some team members in the past have been reluctant to provide incentives because they
 were afraid that people would only be interested in the money and so have the wrong motivation.
-Incentives may be a misnomer: whenever I've used them in the past, it's usually acknowledgment of
+Incentives may be a misnomer. Whenever I've used them in the past, it's usually acknowledgment of
 appreciation and presented after the interviews. Since corporate research teams offer $100+
-incentives, gift cards ranging from $25–30 for 30–60 minute interviews are not highly motivating.
+incentives, gift cards ranging from $25–$30 for 30–60 minute interviews are not highly motivating.
 Even when it's wise to conserve money in a startup, it's still good practice to provide some token
 of appreciation when people generously spend time to help (it won't set the company back by much and
 builds goodwill).
@@ -249,7 +249,7 @@ builds goodwill).
 
 <p>
 It's important to remember that, although this is a process, don't get stuck checking off
-boxes - use them as guidelines to move the team forward as fast as possible.
+boxes — use them as guidelines to move the team forward as fast as possible.
 </p>
 <br/><br/>
 
