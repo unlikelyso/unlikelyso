@@ -153,7 +153,7 @@
         <h4 class="ts-fs-4 fw-800 mb-24">More blog posts</h4>
         <div class="ts-container p-0">
           <div class="ts-blog-group mb-24">
-            {% set posts = collections.posts | reverse | limit(3) %}
+            {% set posts = collections.posts | reverse | limit(4) %}
             {% for post in posts %}
               {% if (post.url != page.url ) and (loop.index0 < 4) %}
                 {% include "postlist.njk" %}
