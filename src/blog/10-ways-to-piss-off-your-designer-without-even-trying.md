@@ -95,7 +95,7 @@ transform a troubled relationship into an understanding, collaborative one.
     <span class="fw-700">You need to change the design because team member X is right.</span>
     <p>
     When the designer listens to but rejects a given team member's suggestion, that person may
-    escalate the suggestion (e.g., to the founders, in a startup or a senior leader). This terrible
+    escalate the suggestion (e.g. to the founders in a startup or a senior leader). This terrible
     dynamic sets the precedent for resolving disagreements by pulling rank, leading to a frustrated
     designer and questionable user experiences. Design decisions based on a single opinion are
     dangerous, even when the suggester has expertise (some team members claim expertise as
