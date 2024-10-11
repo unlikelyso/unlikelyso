@@ -26,10 +26,9 @@ evaluating the right approach for them.
 <img width='100%' 
      src='../assets/images/blog/fracturedlego.png' 
      alt='A Lego figure deconstructed into parts.' />
-<br/><br/><br/>
-
-<b>Pressure</b>
 <br/><br/>
+
+<h5 class="ts-fs-5 fw-800 mt-24 mb-16">Pressure</h5>
 
 In the exec-led model of new product development, there is immense pressure on the founders or
 executives to convince team members of the validity of their vision. If a PM lead exists on the
@@ -76,10 +75,9 @@ together rather than just a group of colleagues doing their jobs.
 <img width ='100%' 
      src='../assets/images/blog/hourglass.png' 
      alt='An hourglass with blue sands draining, sitting on a bed of rocks.'/>
-<br/><br/><br/>
+<br/>
 
-<b>Time and money</b>
-<br/><br/>
+<h5 class="ts-fs-5 fw-800 mt-24 mb-16">Time and money</h5>
 
 In the traditional exec-led model, creating an MVP can take nine months to 1.5 years or more before
 leadership decides to continue investing or end the project. Without a clear positive result, the
@@ -106,10 +104,9 @@ a potentially higher ROI, why do most teams follow the exec-led model?
 <img width='100%'
      src='../assets/images/blog/rollercoaster.png' 
      alt='A group of people upside down on a roller coaster'/>
-<br/><br/><br/>
+<br/>
 
-<b>Certainty, security, and clarity</b>
-<br/><br/>
+<h5 class="ts-fs-5 fw-800 mt-24 mb-16">Certainty, security, and clarity</h5>
 
 Being a part of a team with a leader with a clear vision brings a sense of security. This top-down
 approach is reassuring because the product leaders know what they’re doing (at least, they project
@@ -142,13 +139,15 @@ uncertainty and avoid becoming stalled. Those who are product-oriented and want 
 impact of their efforts first-hand do their best work under this model.
 <br/><br/>
 
-<b>When does that team-led model work?</b>
-<br/><br/> 
+<h5 class="ts-fs-5 fw-800 mt-24 mb-16">When does that team-led model work?</h5>
+
 There are a few scenarios where this team-led approach to product development shines:
 <br/><br/>
 <ol>
   <li>
-    An early-stage startup team consisting of founders and a few team members. 
+    <span class="fw-700">
+      An early-stage startup team consisting of founders and a few team members.
+    </span>
     <p>
       Many people are attracted to joining startups because of the potential for impact and the
       opportunity to learn things that would not be available to them in a big company. Inviting
@@ -160,7 +159,10 @@ There are a few scenarios where this team-led approach to product development sh
     </p>
   </li>
   <li>
-    A team in a growth-stage startup when the founders can no longer make day-to-day product decisions.
+    <span class="fw-700">
+      A team in a growth-stage startup when the founders can no longer make
+      day-to-day product decisions.
+    </span>
     <p>
       This inflection point is a good time for the founders to select talented team members who can
       lead and train them to make decisions that jive with the original vision. Although the
@@ -171,7 +173,10 @@ There are a few scenarios where this team-led approach to product development sh
       can make quick decisions and keep mistakes cheap.
     </p>
   </li>
-  <li> An in-house team in a large company can be tasked to experiment and create potential new product lines. 
+  <li>
+    <span class="fw-700">
+      An in-house team in a large company can be tasked to experiment and create potential new product lines. 
+    </span>
     <p>
       There are likely team members in the organization who yearn for the experience of creating new
       products but who may need more guided opportunities to learn. These team members are

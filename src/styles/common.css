@@ -77,8 +77,15 @@ h6 {
 p,
 ul,
 ol,
+blockquote,
 li {
   line-height: 150%;
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #000;
+  padding-left: 16px;
 }
 
 .ts-container {
@@ -478,7 +485,7 @@ li {
 }
 
 .ts-hr-2 {
-  opaacity: 1;
+  opacity: 1;
   border-color: #f3f3f340;
 }
 
@@ -1057,9 +1064,6 @@ a {
   grid-auto-columns: 680px;
   justify-content: center;
   gap: clamp(1.5rem, 6vw, 80px);
-  ol li {
-    font-weight: 700;
-  }
 }
 
 @media (max-width: 1200px) {

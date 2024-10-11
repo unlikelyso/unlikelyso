@@ -9,24 +9,37 @@ tags: "interpersonal comms"
 callout: Learn more about how you can improve <a href="/communication-coaching">team communication.</a>
 ---
 
+<p>
 How does it happen that someone becomes an a-hole at work? It’s hard to believe that anyone would
 begin their day gleefully planning how they might destroy someone else’s. Yet a-holes certainly
 exist — we’ve all worked with them at some point.
-<br/><br/>
+</p>
+<br/>
+
+<p>
 You know who they are. 
-<br/><br/>
+</p>
+<br/>
+
+<p>
 What made them that way in your eyes? Did they take credit for your work? Have no regard for your
 time by scheduling or canceling meetings at the last minute, expecting you to drop everything? Did
 they throw you under the bus or engage in blaming when things didn’t go well? Spread lies about you
 behind your back? The a-holes that I’ve worked with wielded their power like a cudgel and expected
 me to fall in line.
-<br/><br/>
+</p>
+<br/>
+
+<p>
 Whatever their transgression was, I bet you remember how they made you feel. I felt dismissed and
 disrespected. Whatever enthusiasm or motivation I had was sledgehammered until I dreaded work. A
 short 10-minute drive to the office became a slog toward Mt. Doom. Easy things became hard. Hard
 things made me weigh how much my sanity was worth. Sleep became a casualty. My sense of well-being
 nosedived, making it difficult to enjoy much of anything, even outside of work.
-<br/><br/>
+</p>
+<br/>
+
+<p>
 Despite their harmful behavior, a-holes are tolerated or, worse, celebrated or promoted. No one
 calls them out. Sometimes, they’re our bosses or someone higher up in the management chain — they
 only behave like a-holes to peers or those lower on the totem pole — which makes accountability for
@@ -37,13 +50,18 @@ erodes the longer that we are there. Toxic behaviors, as defined in <a
 href="https://sloanreview.mit.edu/article/why-every-leader-needs-to-worry-about-toxic-culture/">“Why Every Leader Needs to Worry
 About Toxic Culture,”</a> are disrespectful, noninclusive, unethical, cutthroat, and/or abusive. Yet how
 can work be toxic if it’s not something any of us want to create?
-<br/><br/>
+</p>
+<br/>
+
+<p>
 Most of us aspire to be rational, logical, and data-driven (especially in tech). We tend to seek
 numbers and hard evidence and disregard intangible things like feelings. We control our emotions —
 often by denying that we have them — and are proud that we can hide them.
-<br/><br/>
-<b>Can we though? </b>
-<br/><br/>
+</p>
+
+<h5 class="ts-fs-5 fw-800 mt-24 mb-16">Can we though?</h5>
+
+<p>
 Whether or not we admit to them, we have feelings. Those seemingly controlled emotions leak despite
 our best efforts. Others are often aware of our emotional state, even if we are stone-faced. They
 may not be able to pinpoint the reasons for our feelings but will sense it. Think about the last
@@ -52,7 +70,10 @@ specific. Our repressed emotions run amok and cause us to act in ways antithetic
 safe spaces we desire. They can cause us to become unwitting a-holes. While it is easy to recognize
 and eschew unethical and abusive behaviors such as screaming at a colleague or intentionally harming
 others, more insidious are disrespectful or noninclusive behaviors that erode trust.
-<br/><br/>
+</p>
+<br/>
+
+<p>
 Some examples of behaviors that have unintentionally negative impacts:
 <br/><br/>
 <ul>
@@ -105,6 +126,7 @@ Some examples of behaviors that have unintentionally negative impacts:
     checking with the source.
   </li>
 </ul>
+</p>
 <br/>
 <p>
 The list goes on as we can all add our experiences to this. These behaviors likely seemed reasonable
@@ -114,8 +136,8 @@ to the people who committed them. On the receiving end, we call them a-hole beha
      src='../assets/images/blog/distressedlego.png' 
      alt='A blue Lego figure with a distressed expression.' />
 <br/><br/>
-<b>What impact does suppressing our feelings have?</b>
-<br/><br/>
+<h4 class="ts-fs-4 fw-800 mt-24 mb-16">What impact does suppressing our feelings have?</h4>
+<p>
 The leader who required silence may have meant well and might have been trying to help improve team
 productivity by creating an environment conducive to concentration. They may have had any number of
 feelings that led to acting the way they did, but those were not communicated. By jumping to
@@ -124,7 +146,9 @@ non-existent problem, creating confusion, stress, and resentment. Their actual f
 intentions remain unknown, but the impact of those unspoken feelings was felt. Sometimes their
 impact is so painful that we are unable to even wonder about intent and instead brand those who have
 hurt us as a-holes — I have.
-<br/><br/>
+</p>
+<br/>
+<p>
 In more instances than I’d like to admit, whenever I’ve tried to repress my frustration or anger
 about a perceived a-hole, I’ve acted in ways that likely prolonged the conflict, sometimes
 exacerbated it. In the face of perceived authoritarian behavior, I’ve reacted with passive
@@ -133,15 +157,20 @@ unjustly injured party, even though that behavior likely caused injury to others
 these create a chicken-and-egg cycle. Sometimes, the transgression might be minor, but when left
 unaddressed, small things compound. The only possible outcome then is for one of us to quit when our
 misery becomes intolerable. 
-<br/><br/>
-<b>So AITA at work?</b>
-<br/><br/>
+</p>
+
+<h5 class="ts-fs-5 fw-800 mt-24 mb-16">So AITA at work?</h5>
+
+<p>
 Labeling ourselves or others can provide temporary relief, but reduces everyone to caricatures.
 Vindication is short-lived and we are eventually left with lingering resentment. It might be
 comforting to rest in self-righteous indignation, but in doing so, we risk not exercising our
 curiosity and avoiding attempts to connect. Resolving conflict is hard and consuming, but ultimately
 rewarding work that builds trust.
-<br/><br/>
+</p>
+<br/>
+
+<p>
 One of my most transformative experiences was experiencing <a
 href="https://www.gsb.stanford.edu/experience/learning/leadership/interpersonal-dynamics">Stanford’s Interpersonal Dynamics</a>
 while in school. It gave me the knowledge needed to address interpersonal conflict. Still, it took me
@@ -150,7 +179,10 @@ not feel safe but can be done with selective risk-taking and practice. Learning 
 about my feelings and attempting to understand the underlying problem has opened me to different
 perspectives, helping me to engage in collaborative problem-solving. In doing so, I have moved from
 barely surviving at work to thriving and finding joy in what I do.
-<br/><br/>
+</p>
+<br/>
+
+<p>
 By not acknowledging and addressing our feelings, we act in ways that might be unfathomable to
 others and trigger similar behavior from them. Learning how to hold constructive conversations, even
 when it feels unsafe or impossible because of power differences, will help us to achieve outcomes
