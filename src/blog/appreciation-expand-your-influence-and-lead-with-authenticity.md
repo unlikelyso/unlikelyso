@@ -1,5 +1,5 @@
 ---
-title: User research participant recruiting for startup engineers and PMs
+title: Appreciation: Expand your influence and lead with authenticity
 date: 2024-10-10
 length: "11 min"
 image: "/assets/images/blog/appreciation-bg.png"
