@@ -30,7 +30,7 @@ evidenced by investments in their startup) buoys their confidence despite the la
 </p>
 <br/>
 <p>
-While the early team could <a href="https://unlikely.so/user-research-participant-recruiting-for-startup-engineers-and-product-managers/">share the responsibility</a> for user research, talking to people is
+While the early team could <a href="/user-research-participant-recruiting-for-startup-engineers-and-product-managers/">share the responsibility</a> for user research, talking to people is
 hard. Early-stage startup teams are often comprised of engineers. As an engineer, I never spoke
 to any users. It took a lot of practice before I could approach people to ask questions. Talking
 to users can be a struggle for anyone not trained in the process, even executives whose job is 
