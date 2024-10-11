@@ -57,8 +57,10 @@ expectation is to succeed even though that’s typically not the outcome given h
 <a href="https://hbr.org/2021/05/why-start-ups-fail">new ventures fail.</a>
 <br/><br/>
 
-I've also practiced a more iterative, team-led approach to new product development modeled after the design thinking process, as taught by 
-<a href="https://dschool.stanford.edu/resources/getting-started-with-design-thinking">the Stanford d.school</a>
+I've also practiced a more iterative, <a href="/design-thinking-your-way-to-startup-mvp/">team-led
+approach to new product development</a> modeled after the <a
+href="https://dschool.stanford.edu/resources/getting-started-with-design-thinking">design thinking
+process</a>, as taught by the Stanford d.school
 and practiced by IDEO. In this user-centered, experiment-driven model, team members share ownership
 and the responsibility of finding product-market fit. There are discussions, but instead of lengthy
 debates, continuous user feedback on iterated prototypes settles many disagreements. This

@@ -174,7 +174,8 @@ rewarding work that builds trust.
 One of my most transformative experiences was experiencing <a
 href="https://www.gsb.stanford.edu/experience/learning/leadership/interpersonal-dynamics">Stanford’s Interpersonal Dynamics</a>
 while in school. It gave me the knowledge needed to address interpersonal conflict. Still, it took me
-years to effectively apply the lessons learned at work. Execution is hard in environments that may
+years to effectively <a href="/appreciation-expand-your-influence-and-lead-with-authenticity/">apply
+the lessons learned at work</a>. Execution is hard in environments that may
 not feel safe but can be done with selective risk-taking and practice. Learning to speak frankly
 about my feelings and attempting to understand the underlying problem has opened me to different
 perspectives, helping me to engage in collaborative problem-solving. In doing so, I have moved from

@@ -51,7 +51,8 @@ building something no one wants.
 <p>
 By adopting a scrappy user research approach, startup teams without the expertise can learn how to share the responsibility.
 Typically, the team knows they want to solve a problem in a particular space and what the solution
-might be. While they may be confident they know what those are, it is necessary to verify them.
+might be. While they may be confident they know what those are, it is necessary to verify them to
+avoid <a href="/user-research-participant-recruiting-for-startup-engineers-and-product-managers">mistakes.</a>
 Stories about highly respected, well-funded startups that eventually die indicate that some
 combination of the 3 was not what they believed. We can do our quick due diligence to gain
 confidence that we are on the right path to avoid that fate. Many of my experiences are in consumer

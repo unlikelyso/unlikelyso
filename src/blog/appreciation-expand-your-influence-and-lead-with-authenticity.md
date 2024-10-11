@@ -12,8 +12,9 @@ callout: Learn more about how you can improve <a href="/communication-coaching">
 <p>
 Most of us begin our corporate journeys wanting to make an impact and have our voices heard — this
 typically means becoming leaders at some point in our careers. When we can make meaningful decisions
-with organizational impact and feel that what we do matters. Before that day arrives, however, work
-can often be miserable. I have experienced it. You have experienced it. The climb up the corporate
+with organizational impact and feel that what we do matters. Before that day arrives, however, <a
+href="/aita-at-work/">work
+can often be miserable</a>. I have experienced it. You have experienced it. The climb up the corporate
 ladder can be interminably long. With each successive rung reached, impact and meaning can still
 feel elusive. Even if we do not need our jobs to be fulfilling, work can still be a draining
 experience. We cope by changing jobs when the stress becomes intolerable, and our (mental and

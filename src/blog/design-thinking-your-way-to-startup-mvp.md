@@ -18,13 +18,12 @@ these innovation efforts were well-intentioned, their structure did not allow th
 come to fruition. They served to energize the team and to create excitement but didn't move the
 company forward in any meaningful way, making them arguably pointless. When rallying cries of
 bottom-up innovation end up only in pretty post-its on a whiteboard, many product and engineering
-leaders are left justifiably jaded and begin to favor founder- and exec-led product development
-instead.
+leaders are left justifiably jaded and begin to favor founder- and <a href="/the-failed-million-dollar-mvp/">exec-led product development</a> instead.
 </p>
 <br/>
 <p>
 <a href="https://designthinking.ideo.com">Design thinking</a> has been criticized in much the same
-way - a hyped-up process that leads nowhere, despite <a href="https://medium.com/r/?url=https%3A%2F%2Fhbr.org%2F2018%2F09%2Fwhy-design-thinking-works">success
+way — a hyped-up process that leads nowhere, despite <a href="https://medium.com/r/?url=https%3A%2F%2Fhbr.org%2F2018%2F09%2Fwhy-design-thinking-works">success
 stories</a> and case studies from Bank of America (<a
 href="https://medium.com/r/?url=https%3A%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2006-06-18%2Fcase-study-bank-of-america%3Fembedded-checkout%3Dtrue">Keep
 the Change</a>, a currently <a href="https://www.bankofamerica.com/deposits/keep-the-change/">live
@@ -52,7 +51,7 @@ for underserved populations in Entrepreneurial Design for Extreme Affordability,
 ideas for partner companies in Innovation in Complex Organizations like Fidelity, Jetblue, and many
 more. The process was unquestioned and celebrated in a school founded by the founder of IDEO.
 However, in industry, most companies practice the founder-led product development process.
-Introducing design thinking was an uphill effort—if it was even considered.
+Introducing design thinking was an uphill effort — if it was even considered.
 </p>
 <br/>
 
@@ -147,7 +146,7 @@ The team's process was founder-led, and new product ideas were launched once or 
 few months, they had tried variations of a product experience that the founders had already
 conceived of and had conviction in. They wanted a designer who could realize that vision and design
 the experience. The team was already in building mode. It would have been a hard sell convincing
-them that we needed to restart - I did not have enough historical knowledge to know if it was
+them that we needed to restart — I did not have enough historical knowledge to know if it was
 warranted. Although I trained the team in design thinking via a full-day workshop, some team members
 were still uncertain about how to apply it. Having trained past teams, I realized that adoption was
 contingent on practice but didn't have to be all or nothing. Instead, I listened to the team's
@@ -182,7 +181,7 @@ access strengthened the team's trust in my work.
 <p>
 When we wanted to test more ideas, I facilitated brainstorming sessions using the design thinking
 ideation rules to generate as many ideas as possible before narrowing down to a few to mock and
-test - a change from just translating the sketches made by founders. Concept testing different ideas
+test — a change from just translating the sketches made by founders. Concept testing different ideas
 with wireframes instead of building out only one idea helped us to eliminate time debating which
 idea had the most merit. We didn't need certainty to move forward, even when user feedback didn't
 provide full clarity. We were able to test and iterate on different solutions frequently.
@@ -232,7 +231,7 @@ pivoting.
 <br/>
 
 <p>
-Ultimately, product-market fit isn't guaranteed - no process can promise that. Other processes can
+Ultimately, product-market fit isn't guaranteed — no process can promise that. Other processes can
 help us get there too. Design thinking focuses on the experience of team members, to make that
 destination more probable. The journey became enjoyable as we worked together better, learned
 faster, and honed in on the options for product-market fit. We were now a team, not just colleagues.

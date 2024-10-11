@@ -159,6 +159,6 @@ contribute to a better user experience.
 User research may feel daunting, but shouldn't be avoided despite the lack of a user researcher or
 designer. Given the typical startup configuration of engineers and founders, there are ways for
 <a
-href="https://review.firstround.com/a-ux-research-crash-course-for-founders-customer-discovery-tips-from-zoom-zapier-and-dropbox/">interested
+href="https://unlikely.so/user-research-participant-recruiting-for-startup-engineers-and-product-managers/">interested
 team members to perform user research.</a>
 </p>

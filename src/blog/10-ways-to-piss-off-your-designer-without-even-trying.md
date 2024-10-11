@@ -184,9 +184,11 @@ but shouldn't be taken for granted.
 
 <p>
 Each of these situations is frustrating, but the weight of it all can make a designer’s work
-unbearable. So when the designer you work with is upset, consider which of the situations above they
+unbearable. So when the designer you work with is upset (maybe even <a href="/aita-at-work/">act like an
+a-hole</a>), consider which of the situations above they
 might be struggling with. Having honest
-conversations when <a href="/aita-at-work/">difficult situations</a> happen can resolve
-many disagreements, leading to more effective collaboration.
+conversations when difficult situations happen can resolve
+many disagreements, leading to <a href="/appreciation-expand-your-influence-and-lead-with-authenticity/">appreciation</a>
+and more effective collaboration.
 </p>
 
