@@ -12,11 +12,11 @@
     </script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Lessons from going 0-to-1 and beyond</title>
+    <title>0->1 Lessons</title>
     <meta name="description" content="Tech startup and industry experience in new product development, team communication, and product design.">
     <meta property="og:url" content="url('/blog')">
     <meta property="og:type" content="blog">
-    <meta property="og:title" content="Lessons from going 0-to-1 and beyond">
+    <meta property="og:title" content="0->1 Lessons">
     <meta property="og:image" content="/assets/images/blog/hero-bg.png">
     <meta property="og:description" content="Tech startup and industry experience in new product development, team communication, and product design.">
 
@@ -63,11 +63,11 @@
   <body>
     <div class="ts-navbar-container">
       <div class="ts-container">
-        <header class="ts-navbar ts-navbar--light">
+        <header class="ts-navbar ts-navbar">
           <a class="ts-navbar__logo" href="/">
-            <img src="../assets/images/logo-white.png" height="40px" alt="Unlikely"/>
+            <img src="../assets/images/logo.png" height="40px" alt="Unlikely"/>
           </a>
-          <div class="ts-burger ts-text-white-60">
+          <div class="ts-burger">
             <i class="ts-open fa-solid fa-bars"></i>
             <span class="ts-close">
               <i class="fa-solid fa-xmark"></i>
@@ -75,12 +75,6 @@
           </div>
           <nav class="ts-navbar__navbar">
             <ul class="ts-links">
-              <li>
-                <a class="ts-navbar__link" href="/about"> About </a>
-              </li>
-              <li>
-                <a class="ts-navbar__link ts-text-blue-2" href="/blog"> Blog </a>
-              </li>
               <li class="ts-btn-container d-none">
                 <a
                   class="ts-btn ts-btn--sm ts-btn-primary ts-fs-6 text-decoration-none rounded-4 text-uppercase fw-500"
@@ -94,31 +88,17 @@
       </div>
     </div>
 
-    <section
-      class="ts-hero"
-      style="background-image: url('../assets/images/blog/hero-bg.png')"
-    >
+    <section class="ts-py-96">
       <div class="ts-container">
-        <div class="ts-hero__content">
-          <h1 class="ts-fs-1 ts-text-white lh-130 text-center fw-100">
-            Lessons from going 0-to-1 and beyond
-          </h1>
-        </div>
-      </div>
-    </section>
-
-    <section class="ts-py-80-2">
-      <div class="ts-container">
-        <div class="ts-blog-group mb-80">
+        <div class="ts-blog-group">
             {% for post in collections.posts | reverse %}
               {% include "postlist.njk" %}
             {% endfor %}
         </div>
-        <div class="ml-embedded" data-form="6UGoTA"></div>
       </div>
     </section>
 
-    <footer class="ts-footer text-center mb-64">
+    <footer class="ts-footer text-center">
       <div class="ts-container">
         <div class="ts-footer__content">
             &copy; Unlikely LLC

@@ -79,9 +79,6 @@
           <nav class="ts-navbar__navbar">
             <ul class="ts-links">
               <li>
-                <a class="ts-navbar__link" href="/"> Home </a>
-              </li>
-              <li>
                 <a class="ts-navbar__link ts-text-blue-2" href="/blog">Blog</a>
               </li>
               <li class="ts-btn-container d-none">
@@ -142,7 +139,6 @@
           <div class="callout">
             {{ callout | safe }}
           </div>
-          <div class="ml-embedded mb-40" data-form="6UGoTA"></div>
         </div>
 
       </div>
@@ -150,7 +146,6 @@
 
     <section class="ts-blog-more ts-py-80">
       <div class="ts-container">
-        <h4 class="ts-fs-4 fw-800 mb-24">More blog posts</h4>
         <div class="ts-container p-0">
           <div class="ts-blog-group mb-24">
             {% set posts = collections.posts | reverse | limit(4) %}
@@ -160,7 +155,7 @@
               {% endif %}
             {% endfor %}
           </div>
-          <a class="ts-fs-6 ts-text-blue-2 text-decoration-none ts-btn-seemore fw-700" href="/blog">See all<i class="icon-shift ts-fs-7 fa-solid fa-arrow-right"></i></a>
+          <a class="ts-fs-6 ts-text-blue-2 text-decoration-none ts-btn-seemore fw-300" href="/blog">Read more<i class="icon-shift ts-fs-7 fa-solid fa-arrow-right"></i></a>
         </div>
       </div>
     </section>
