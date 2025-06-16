@@ -26,7 +26,8 @@ jobs:
           npm install
           npx @11ty/eleventy
       - uses: actions/upload-pages-artifact@v3
-        path: _site
+        with: 
+          path: _site
 
   deploy:
     runs-on: ubuntu-latest
