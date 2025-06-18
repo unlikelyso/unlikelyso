@@ -953,7 +953,7 @@ a {
 
 @media (max-width: 575px) {
   .ts-work__content {
-    margin-top: 5rem;
+    margin-top: 4rem;
     grid-template-columns: repeat(1, 1fr);
     gap: 0;
   }
