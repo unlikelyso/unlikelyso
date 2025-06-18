@@ -966,9 +966,10 @@ a {
 /* ================================================= */
 
 .ts-blog-group {
+  padding: 0 0rem;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 1rem 3rem;
+  gap: 5rem;
 
   li {
     font-weight: 700;
@@ -1023,8 +1024,7 @@ a {
 }
 
 .ts-blog-card__wrapper {
-  padding:  1.5rem;
-  border: solid 1px var(--gray-6);
+  padding:  1.5rem 0;
   background: var(--white);
   border-radius: 0 0 4px 4px;
   min-height: 150px;
