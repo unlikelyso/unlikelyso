@@ -3,13 +3,13 @@
       <div class="ts-blog-card__image" style="background-image: url({{ post.data.thumbnail }})">
       </div>
       <div class="ts-blog-card__wrapper">
-          <h4 class="ts-blog-card__title ts-fs-4-ii ts-text-gray-2 mb-8">
+          <h4 class="ts-blog-card__title ts-fs-4 ts-text-gray-2 mb-16">
             {{ post.data.title }}
           </h4>
-          <div class="ts-blog-card__desc ts-text-gray-4 fw-500 mb-16">
+          <div class="ts-blog-card__desc ts-fs-5 ts-text-gray-1 fw-400 mb-24">
             {{ post.data.description | safe }}
           </div>
-          <div class="ts-fs-8 ts-text-gray-4 fw-500">
+          <div class="ts-fs-6 ts-text-gray-4 fw-400">
             {{ post.data.date | postDate }} · {{ post.data.length }} read
           </div>
       </div>

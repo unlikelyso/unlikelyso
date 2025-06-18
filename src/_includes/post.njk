@@ -43,15 +43,6 @@
     <link rel="stylesheet" href="../styles/common.css" />
     <link rel="stylesheet" href="../styles/blog.css" />
 
-    <!-- MailerLite Universal -->
-    <script>
-        (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
-        .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
-        n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
-        (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
-        ml('account', '705631');
-    </script>
-    <!-- End MailerLite Universal -->
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F6SNPYZPH7"></script>
     <script>
@@ -79,7 +70,7 @@
           <nav class="ts-navbar__navbar">
             <ul class="ts-links">
               <li>
-                <a class="ts-navbar__link ts-text-blue-2" href="/blog">Blog</a>
+                <a class="ts-navbar__link ts-text-blue-2" href="/blog">0&rarr;1 Lessons</a>
               </li>
               <li class="ts-btn-container d-none">
                 <a
@@ -104,7 +95,7 @@
       <div class="ts-container">
         <div class="ts-blog-details__title mb-24">
           <div>
-            <h1 class="ts-fs-2 mb-16 ts-font-inter fw-900">{{ title }}</h1>
+            <h1 class="ts-fs-1 mb-16 ts-font-inter fw-900">{{ title }}</h1>
             <div class="ts-profile mt-24">
               <div>
                 <img
@@ -121,7 +112,7 @@
                        alt="LinkedIn"/>
                   </a>
                 </p>
-                <p class="ts-fs-7 ts-text-gray-9 fw-400">{{ length }} read · {{ date | postDate }}</p>
+                <p class="ts-fs-6 ts-text-gray-9 fw-400">{{ length }} read · {{ date | postDate }}</p>
               </div>
             </div>
           </div>
@@ -129,14 +120,14 @@
 
         <div class="ts-blog-details__content">
           <div>
-            <p class="ts-fs-6 mb-32">
+            <p class="ts-fs-5 mb-32">
               <em>{{ description | safe }}</em>
             </p>
-            <p class="ts-fs-6 mb-24">
+            <div class="ts-fs-5 mb-24">
               {{ content | safe }}
-            </p>
+            </div>
           </div>
-          <div class="callout">
+          <div class="ts-fs-5 callout mb-40">
             {{ callout | safe }}
           </div>
         </div>
@@ -144,7 +135,7 @@
       </div>
     </section>
 
-    <section class="ts-blog-more ts-py-80">
+    <section class="ts-blog-more ts-bg-gray-8 ts-py-80">
       <div class="ts-container">
         <div class="ts-container p-0">
           <div class="ts-blog-group mb-24">
@@ -155,7 +146,7 @@
               {% endif %}
             {% endfor %}
           </div>
-          <a class="ts-fs-6 ts-text-blue-2 text-decoration-none ts-btn-seemore fw-300" href="/blog">Read more<i class="icon-shift ts-fs-7 fa-solid fa-arrow-right"></i></a>
+          <a class="ts-fs-5 ts-text-blue-2 text-decoration-none ts-btn-seemore fw-400" href="/blog">Read more<i class="icon-shift ts-fs-7 fa-solid fa-arrow-right"></i></a>
         </div>
       </div>
     </section>
