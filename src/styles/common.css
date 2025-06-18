@@ -35,7 +35,7 @@
 * {
   margin: 0;
   padding: 0;
-  letter-spacing: 0em;
+  letter-spacing: -0.01em;
 }
 
 html {
@@ -45,15 +45,6 @@ html {
 body {
   font-family: "Inter", sans-serif;
   color: var(--gray-2);
-  /* ============= */
-  /*
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  */
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
@@ -114,7 +105,6 @@ blockquote {
   }
   .ts-let-together__content {
     grid-template-columns: 1;
-    column-gap: 1.25rem;
 
     .box1 {
       grid-column: 1 / 1;
@@ -141,13 +131,13 @@ blockquote {
   font-size: clamp(2rem, 4.5vw, 2.5rem);
 }
 .ts-fs-4 {
-  font-size: clamp(1.875rem, 4vw, 1.5rem);
+  font-size: clamp(1.75rem, 4vw, 1.5rem);
 }
 .ts-fs-4-ii {
   font-size: clamp(1.5rem, 4vw, 1.5rem);
 }
 .ts-fs-5 {
-  font-size: clamp(1.125rem, 4vw, 1.25rem);
+  font-size: clamp(1.25rem, 4vw, 1.25rem);
 }
 .ts-fs-6 {
   font-size: clamp(1rem, 3.5vw, 1.125rem);
@@ -520,6 +510,7 @@ blockquote {
 /* ========================================================================== */
 
 .ts-navbar-container {
+  background: var(--white);
   position: fixed;
   top: 0;
   left: 0;
@@ -923,7 +914,7 @@ a {
   padding-bottom: 0;
   
   li {
-    padding-bottom: 0;
+    padding-bottom: .75rem;
   }
 }
 
@@ -952,7 +943,7 @@ a {
 .ts-sidebar {
   gap: 1rem;
   padding: 1.5rem;
-  background: var(--white);
+  background: var(--gray-8);
   align-items: center;
 }
 
@@ -1033,8 +1024,8 @@ a {
 
 .ts-blog-card__wrapper {
   padding:  1.5rem;
-  border: solid 1px var(--gray-7);
-  background: var(--gray-8);
+  border: solid 1px var(--gray-6);
+  background: var(--white);
   border-radius: 0 0 4px 4px;
   min-height: 150px;
 }
@@ -1043,21 +1034,22 @@ a {
   letter-spacing: -0.01em;
   overflow: hidden;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   font-family: "Inter", sans-serif;
   font-weight: 800;
+  line-height: 130%;
 
   &:hover {
     color: #0fab74; 
   }
 }
 .ts-blog-card__desc {
-  line-height: 1.3125rem;
   overflow: hidden;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
+  line-height: 150%;
 }
 
 /* ================================================= */
@@ -1101,7 +1093,7 @@ a {
 
 /* Index */
 .ts-about__content {
-  padding: 5rem;
+  padding: 5rem 2rem;
 }
 
 .ts-assess__container {
@@ -1130,7 +1122,7 @@ ol {
   
   li {
     font-weight: 400;
-    padding-bottom: .25rem;
+    padding-bottom: .75rem;
     
     p {
       font-weight: 400;
@@ -1153,9 +1145,6 @@ ul {
 }
 
 @media (min-width: 992px) {
-  .ts-assess__content {
-    gap: 3rem;
-  }
   .ts-faq__content {
     grid-template-columns: 1fr;
     padding: 0rem 15rem;
@@ -1169,15 +1158,22 @@ ul {
     padding: 0 3.5rem;
   }
   .ts-assess__content {
-    grid-template-columns: 1fr 1.5fr;
+    grid-template-columns: 1fr 1.25fr;
     padding: 3.5rem;
     align-items: center;
+    gap: 3rem;
   }
 }
 @media (max-width: 991px) {
+  .ts-assess__content {
+    margin-top: 3rem;
+  }
   .ts-assess__container {
     border-left: none;
     padding: 0 2rem;
+  }
+  .ts-about__content {
+    padding: 3rem 2rem;
   }
   .ts-about {
     background-color: var(--gray-8);
@@ -1228,11 +1224,10 @@ ul {
 }
 .ts-let-together__content {
   display: grid;
-  gap: 1.25rem;
 }
 .work__content {
   display: grid;
-  padding: 2rem;
+  padding: 1.5rem;
   background: var(--white);
   border-radius: 4px;
 }
@@ -1277,7 +1272,6 @@ ul {
 @media (min-width: 992px) {
   .ts-let-together__content {
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    column-gap: 1.25rem;
   }
   .ts-row {
     grid-template-columns: repeat(2, minmax(0, 1fr));
