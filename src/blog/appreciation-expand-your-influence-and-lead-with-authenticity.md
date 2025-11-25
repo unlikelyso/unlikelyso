@@ -85,12 +85,11 @@ by their varying efficacy.
 
 <h5 class="ts-fs-5 fw-800 mt-24 mb-16">Method #1: Quid pro quo appreciation via a thank you</h5>
 <p>
-It may feel like a waste of time (some of it could be), but the deep understanding you will gain of
-the space using this approach will also be helpful in the future. You may have confidence that this
-is your target user segment, and they might be for a while. If that changes, doing broad research
-will allow you to pivot to another segment without starting over. Having knowledge of other
-potential segments will inform your decision on whether to pivot and to which segment — you will not
-have to restart the research from the beginning.
+This is possibly the least effective of all three methods, but it is better than nothing. Saying
+thanks is my go-to for quickly conveying gratitude and appreciation. This simple phrase conveys my
+feelings without taking too much time or thought. Consequently, it is also not very memorable. I
+would need to say thank you often for it to have as powerful an impact as the following two methods,
+and so I do as the occasions arise.
 </p>
 <br/>
 
@@ -195,16 +194,6 @@ is time-consuming because it requires thought and planning, but it is worthwhile
 These varied methods have been helpful to me in voicing my appreciation so that people who have had
 a positive influence on my life are aware of their impact. Simply knowing the best ways to do so is
 not typically enough to get us to do it more often — it was not for me.
-</p>
-<br/>
-
-<p>
-While this feet-on-the-ground method of interviewing strangers does not cost money, the cost will be
-with time and energy. It is very tiring to physically approach people, be rejected, and yet continue
-on. Being on your feet all day, listening and speaking while taking notes, and remembering pertinent
-details will take a toll. Sometimes, these impromptu field trips did not result in many
-conversations. I would consider this option only if there was no other way. Fortunately, in recent
-years, there are less energy-intensive methods.
 </p>
 <br/>
 
